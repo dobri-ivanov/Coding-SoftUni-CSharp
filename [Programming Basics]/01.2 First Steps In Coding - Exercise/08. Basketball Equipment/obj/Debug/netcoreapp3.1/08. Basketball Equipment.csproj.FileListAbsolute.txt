@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.genruntimeconfig.cache

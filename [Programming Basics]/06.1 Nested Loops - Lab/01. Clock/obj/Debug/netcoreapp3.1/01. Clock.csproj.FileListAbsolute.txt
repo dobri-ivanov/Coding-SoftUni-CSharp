@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.genruntimeconfig.cache

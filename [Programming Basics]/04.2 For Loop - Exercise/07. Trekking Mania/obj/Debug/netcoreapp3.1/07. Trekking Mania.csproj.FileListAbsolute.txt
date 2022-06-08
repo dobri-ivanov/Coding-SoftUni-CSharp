@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.genruntimeconfig.cache

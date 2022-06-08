@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

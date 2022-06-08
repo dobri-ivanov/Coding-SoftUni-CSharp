@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.genruntimeconfig.cache

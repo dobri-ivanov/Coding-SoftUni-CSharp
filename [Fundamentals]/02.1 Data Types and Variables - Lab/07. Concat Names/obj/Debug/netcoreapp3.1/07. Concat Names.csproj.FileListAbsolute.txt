@@ -1,0 +1,12 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.1 Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.genruntimeconfig.cache

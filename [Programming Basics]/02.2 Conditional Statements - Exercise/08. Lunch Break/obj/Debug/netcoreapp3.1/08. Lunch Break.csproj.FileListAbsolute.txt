@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.genruntimeconfig.cache

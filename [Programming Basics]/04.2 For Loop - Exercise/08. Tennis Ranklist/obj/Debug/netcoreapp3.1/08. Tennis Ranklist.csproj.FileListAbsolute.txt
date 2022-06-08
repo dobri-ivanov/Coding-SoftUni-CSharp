@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.genruntimeconfig.cache

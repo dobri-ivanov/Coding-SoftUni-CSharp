@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache

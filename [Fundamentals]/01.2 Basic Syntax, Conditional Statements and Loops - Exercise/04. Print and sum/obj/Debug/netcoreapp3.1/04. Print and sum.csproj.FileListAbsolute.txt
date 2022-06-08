@@ -1,0 +1,12 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.genruntimeconfig.cache

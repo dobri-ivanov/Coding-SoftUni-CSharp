@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.genruntimeconfig.cache

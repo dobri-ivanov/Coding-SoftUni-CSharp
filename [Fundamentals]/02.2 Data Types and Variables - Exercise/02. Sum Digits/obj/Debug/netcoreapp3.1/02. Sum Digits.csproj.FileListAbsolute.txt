@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csprojAssemblyReference.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.genruntimeconfig.cache

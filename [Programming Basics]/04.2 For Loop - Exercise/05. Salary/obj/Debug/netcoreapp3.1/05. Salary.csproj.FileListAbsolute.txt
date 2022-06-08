@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\bin\Debug\netcoreapp3.1\05. Salary.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\05. Salary\obj\Debug\netcoreapp3.1\05. Salary.genruntimeconfig.cache

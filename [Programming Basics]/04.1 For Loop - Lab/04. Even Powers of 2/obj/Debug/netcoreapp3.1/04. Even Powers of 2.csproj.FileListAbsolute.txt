@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.genruntimeconfig.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.csprojAssemblyReference.cache

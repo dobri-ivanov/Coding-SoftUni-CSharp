@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.genruntimeconfig.cache

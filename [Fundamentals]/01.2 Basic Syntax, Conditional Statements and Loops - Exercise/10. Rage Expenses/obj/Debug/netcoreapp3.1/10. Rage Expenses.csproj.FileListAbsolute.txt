@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csprojAssemblyReference.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

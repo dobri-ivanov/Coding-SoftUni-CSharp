@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.genruntimeconfig.cache

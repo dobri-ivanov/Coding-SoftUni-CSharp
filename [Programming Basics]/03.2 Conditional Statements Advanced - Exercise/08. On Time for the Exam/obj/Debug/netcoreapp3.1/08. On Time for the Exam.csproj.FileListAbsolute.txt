@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.genruntimeconfig.cache

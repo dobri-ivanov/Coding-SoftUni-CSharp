@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csprojAssemblyReference.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.genruntimeconfig.cache

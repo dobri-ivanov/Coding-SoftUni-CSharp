@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

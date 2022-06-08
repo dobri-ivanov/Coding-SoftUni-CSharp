@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.genruntimeconfig.cache

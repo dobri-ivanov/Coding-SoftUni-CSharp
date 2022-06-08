@@ -1,0 +1,12 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.2 Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.genruntimeconfig.cache

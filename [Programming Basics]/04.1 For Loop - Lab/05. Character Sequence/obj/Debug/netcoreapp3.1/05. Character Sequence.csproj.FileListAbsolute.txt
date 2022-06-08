@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.genruntimeconfig.cache

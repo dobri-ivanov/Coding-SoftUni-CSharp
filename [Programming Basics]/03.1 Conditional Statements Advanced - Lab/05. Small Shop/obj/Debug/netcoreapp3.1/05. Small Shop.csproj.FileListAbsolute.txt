@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

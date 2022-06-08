@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.genruntimeconfig.cache

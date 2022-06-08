@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.genruntimeconfig.cache

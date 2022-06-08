@@ -1,0 +1,12 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.1 Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.genruntimeconfig.cache

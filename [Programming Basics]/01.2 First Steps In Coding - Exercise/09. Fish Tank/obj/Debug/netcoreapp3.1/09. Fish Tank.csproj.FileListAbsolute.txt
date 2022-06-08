@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.genruntimeconfig.cache

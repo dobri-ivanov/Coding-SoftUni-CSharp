@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csprojAssemblyReference.cache

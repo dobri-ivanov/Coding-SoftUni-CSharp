@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp3.1\02. Multiplication Table.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp3.1\02. Multiplication Table.genruntimeconfig.cache

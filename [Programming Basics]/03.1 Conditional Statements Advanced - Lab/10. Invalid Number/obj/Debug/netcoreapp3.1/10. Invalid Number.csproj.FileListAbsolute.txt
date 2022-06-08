@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

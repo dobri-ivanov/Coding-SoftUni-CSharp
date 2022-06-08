@@ -1,0 +1,13 @@
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.exe
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.deps.json
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.json
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.dev.json
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.dll
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csprojAssemblyReference.cache
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfoInputs.cache
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfo.cs
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.dll
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+E:\Visual Studio Projects-(C#)\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.genruntimeconfig.cache

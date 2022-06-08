@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.genruntimeconfig.cache

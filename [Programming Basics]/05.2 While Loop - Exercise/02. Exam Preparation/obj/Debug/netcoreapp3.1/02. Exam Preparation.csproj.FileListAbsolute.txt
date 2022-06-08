@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.genruntimeconfig.cache

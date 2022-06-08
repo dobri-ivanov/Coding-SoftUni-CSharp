@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.genruntimeconfig.cache

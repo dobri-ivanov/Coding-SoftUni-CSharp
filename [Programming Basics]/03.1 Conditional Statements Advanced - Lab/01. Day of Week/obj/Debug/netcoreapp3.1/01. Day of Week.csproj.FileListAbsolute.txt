@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

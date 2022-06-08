@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.genruntimeconfig.cache

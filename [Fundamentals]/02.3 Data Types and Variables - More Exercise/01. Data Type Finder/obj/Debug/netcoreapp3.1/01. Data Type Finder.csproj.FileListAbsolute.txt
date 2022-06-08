@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csprojAssemblyReference.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\02.3 Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.genruntimeconfig.cache

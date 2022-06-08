@@ -1,0 +1,12 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.genruntimeconfig.cache

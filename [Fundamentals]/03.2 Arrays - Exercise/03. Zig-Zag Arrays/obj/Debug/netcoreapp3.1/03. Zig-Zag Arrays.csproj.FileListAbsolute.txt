@@ -1,0 +1,12 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.genruntimeconfig.cache

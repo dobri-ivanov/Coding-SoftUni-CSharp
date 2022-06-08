@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\1.2First Steps In Coding - Exercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\bin\Debug\netcoreapp3.1\06. Building.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.genruntimeconfig.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\06. Building\obj\Debug\netcoreapp3.1\06. Building.csprojAssemblyReference.cache

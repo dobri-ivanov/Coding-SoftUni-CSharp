@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache

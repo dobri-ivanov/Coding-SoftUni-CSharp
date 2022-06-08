@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.genruntimeconfig.cache

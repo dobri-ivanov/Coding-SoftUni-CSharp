@@ -1,0 +1,26 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.genruntimeconfig.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\02.2 Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.genruntimeconfig.cache

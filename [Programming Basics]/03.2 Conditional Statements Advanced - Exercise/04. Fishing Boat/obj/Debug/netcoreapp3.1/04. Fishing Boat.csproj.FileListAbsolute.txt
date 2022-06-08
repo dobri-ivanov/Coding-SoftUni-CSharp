@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.genruntimeconfig.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.2 Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csprojAssemblyReference.cache

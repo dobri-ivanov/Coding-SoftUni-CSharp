@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.genruntimeconfig.cache

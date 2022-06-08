@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.genruntimeconfig.cache

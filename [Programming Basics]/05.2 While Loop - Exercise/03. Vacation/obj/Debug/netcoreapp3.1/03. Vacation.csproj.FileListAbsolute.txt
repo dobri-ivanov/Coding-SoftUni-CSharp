@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\05.2 While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

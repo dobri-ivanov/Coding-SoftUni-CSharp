@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.csprojAssemblyReference.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\03.2 Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.genruntimeconfig.cache

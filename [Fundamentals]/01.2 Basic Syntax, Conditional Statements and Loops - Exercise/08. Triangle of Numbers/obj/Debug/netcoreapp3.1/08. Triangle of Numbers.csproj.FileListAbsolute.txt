@@ -1,0 +1,13 @@
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.genruntimeconfig.cache
+E:\[Coding]\SoftUni (C#)\[Fundamentals]\01.2 Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csprojAssemblyReference.cache

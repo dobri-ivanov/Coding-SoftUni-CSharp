@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\2.1 Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.exe
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.deps.json
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.runtimeconfig.json
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.runtimeconfig.dev.json
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.dll
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.pdb
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.AssemblyInfoInputs.cache
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.AssemblyInfo.cs
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.dll
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.pdb
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.genruntimeconfig.cache
+E:\Visual Studio Projects-(C#)\1.2First Steps In Coding - Exercise\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.csprojAssemblyReference.cache

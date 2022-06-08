@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.genruntimeconfig.cache

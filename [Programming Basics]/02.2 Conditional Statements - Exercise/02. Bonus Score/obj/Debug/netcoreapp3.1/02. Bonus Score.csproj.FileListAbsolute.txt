@@ -1,0 +1,13 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csprojAssemblyReference.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\02.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.genruntimeconfig.cache

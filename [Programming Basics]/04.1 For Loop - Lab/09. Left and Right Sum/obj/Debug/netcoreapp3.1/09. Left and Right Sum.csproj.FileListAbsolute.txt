@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\04.1 For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.genruntimeconfig.cache

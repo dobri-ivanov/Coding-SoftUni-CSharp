@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\03.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

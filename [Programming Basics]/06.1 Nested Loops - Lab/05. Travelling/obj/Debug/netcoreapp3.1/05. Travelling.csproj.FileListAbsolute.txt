@@ -1,0 +1,12 @@
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.exe
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.deps.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.dev.json
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfoInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfo.cs
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.CoreCompileInputs.cache
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.dll
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.pdb
+E:\[Coding]\Visual Studio Projects-(C#) SoftUni\[Programming Basics]\06.1 Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.genruntimeconfig.cache
