@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\05. Sum Even Numbers\\05. Sum Even Numbers.csproj",
+      "projectUniqueName": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\05. Sum Even Numbers\\05. Sum Even Numbers.csproj",
       "projectName": "05. Sum Even Numbers",
-      "projectPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\05. Sum Even Numbers\\05. Sum Even Numbers.csproj",
+      "projectPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\05. Sum Even Numbers\\05. Sum Even Numbers.csproj",
       "packagesPath": "C:\\Users\\Dobri's PC\\.nuget\\packages\\",
-      "outputPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\05. Sum Even Numbers\\obj\\",
+      "outputPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\05. Sum Even Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dobri's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

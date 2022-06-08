@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj": {}
+    "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj": {}
   },
   "projects": {
-    "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj": {
+    "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj",
+        "projectUniqueName": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj",
         "projectName": "03. Rounding Numbers",
-        "projectPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj",
+        "projectPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj",
         "packagesPath": "C:\\Users\\Dobri's PC\\.nuget\\packages\\",
-        "outputPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\obj\\",
+        "outputPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\03. Rounding Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dobri's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

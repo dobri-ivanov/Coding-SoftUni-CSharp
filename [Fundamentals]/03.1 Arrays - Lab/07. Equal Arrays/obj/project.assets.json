@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\07. Equal Arrays\\07. Equal Arrays.csproj",
+      "projectUniqueName": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\07. Equal Arrays\\07. Equal Arrays.csproj",
       "projectName": "07. Equal Arrays",
-      "projectPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\07. Equal Arrays\\07. Equal Arrays.csproj",
+      "projectPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\07. Equal Arrays\\07. Equal Arrays.csproj",
       "packagesPath": "C:\\Users\\Dobri's PC\\.nuget\\packages\\",
-      "outputPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\07. Equal Arrays\\obj\\",
+      "outputPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\07. Equal Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dobri's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

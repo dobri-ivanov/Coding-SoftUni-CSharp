@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj",
+      "projectUniqueName": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj",
       "projectName": "06. Even and Odd Subtraction",
-      "projectPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj",
+      "projectPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj",
       "packagesPath": "C:\\Users\\Dobri's PC\\.nuget\\packages\\",
-      "outputPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\06. Even and Odd Subtraction\\obj\\",
+      "outputPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\06. Even and Odd Subtraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dobri's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

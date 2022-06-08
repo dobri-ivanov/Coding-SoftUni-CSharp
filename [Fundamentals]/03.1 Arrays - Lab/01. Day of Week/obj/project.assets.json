@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
+      "projectUniqueName": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
       "projectName": "01. Day of Week",
-      "projectPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
+      "projectPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
       "packagesPath": "C:\\Users\\Dobri's PC\\.nuget\\packages\\",
-      "outputPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\01. Day of Week\\obj\\",
+      "outputPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\01. Day of Week\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dobri's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

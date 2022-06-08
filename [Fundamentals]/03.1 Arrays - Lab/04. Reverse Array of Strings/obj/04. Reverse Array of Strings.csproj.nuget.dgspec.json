@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj": {}
+    "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj": {}
   },
   "projects": {
-    "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj": {
+    "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
+        "projectUniqueName": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
         "projectName": "04. Reverse Array of Strings",
-        "projectPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
+        "projectPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
         "packagesPath": "C:\\Users\\Dobri's PC\\.nuget\\packages\\",
-        "outputPath": "E:\\[Coding]\\SoftUni (C#)\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\obj\\",
+        "outputPath": "E:\\[Coding]\\Coding-SoftUni-CSharp\\[Fundamentals]\\03.1 Arrays - Lab\\04. Reverse Array of Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dobri's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
