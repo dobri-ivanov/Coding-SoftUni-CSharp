@@ -2,31 +2,53 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _07._Truck_Tour
+namespace TruckTour
 {
-    class Program
+    class TruckTour
     {
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            Queue<int>petrol = new Queue<int>();
-            Queue<int> distance = new Queue<int>();
-
+            var petrol = new Queue<int>();
+            var distance = new Queue<int>();
+            int[] input;
             for (int i = 0; i < n; i++)
             {
-                int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                input = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
                 petrol.Enqueue(input[0]);
                 distance.Enqueue(input[1]);
             }
-            int index = 0;
-            while (petrol.Count > 0)
+            int currentFuel;
+            var petrolCopy = new Queue<int>();
+            var distanceCopy = new Queue<int>();
+            for (int i = 0; i < n; i++)
             {
-                if (petrol.Dequeue() > distance.Dequeue())
+                currentFuel = petrol.Peek();
+                petrolCopy = new Queue<int>(petrol);
+                distanceCopy = new Queue<int>(distance);
+                for (int x = 0; x < n; x++)
                 {
-                    Console.WriteLine(index);
-                    return;
+                    if (distanceCopy.Peek() <= currentFuel)
+                    {
+                        currentFuel -= distanceCopy.Peek();
+                        if (x == n - 1)
+                        {
+                            Console.WriteLine(i);
+                            return;
+                        }
+                    }
+                    else
+                    {
+                        break;
+                    }
+                    petrolCopy.Enqueue(petrolCopy.Dequeue());
+                    distanceCopy.Enqueue(distanceCopy.Dequeue());
+                    currentFuel += petrolCopy.Peek();
                 }
-                index++;
+                petrol.Enqueue(petrol.Dequeue());
+                distance.Enqueue(distance.Dequeue());
+                // Run Garbage Collector to reduce used memory for taking test 2
+                GC.Collect();
             }
         }
     }
