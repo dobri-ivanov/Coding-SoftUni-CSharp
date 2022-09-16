@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _04._Fast_Food
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int food = int.Parse(Console.ReadLine());
             int[] orders = Console.ReadLine().Split().Select(int.Parse).ToArray();

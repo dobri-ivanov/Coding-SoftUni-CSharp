@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace _08._Balanced_Parenthesis
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             char[] symbols = Console.ReadLine().ToCharArray();
             Stack<char> stack = new Stack<char>();
@@ -47,7 +46,6 @@ namespace _08._Balanced_Parenthesis
                         return;
                     }
                 }
-
             }
             Console.WriteLine("YES");
         }

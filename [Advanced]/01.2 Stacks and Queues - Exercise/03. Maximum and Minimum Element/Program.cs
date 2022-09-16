@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _03._Maximum_and_Minimum_Element
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
 

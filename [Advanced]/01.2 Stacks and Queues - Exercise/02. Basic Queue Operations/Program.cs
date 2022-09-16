@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _02._Basic_Queue_Operations
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int[] arg = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int n = arg[0];

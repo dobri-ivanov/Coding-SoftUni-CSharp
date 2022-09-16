@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace TruckTour
 {
-    class TruckTour
+    internal class TruckTour
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
             var petrol = new Queue<int>();

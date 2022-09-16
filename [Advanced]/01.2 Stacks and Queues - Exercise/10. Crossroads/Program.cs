@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace _10._Crossroads
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Queue<string> queue = new Queue<string>();
             int greenLightDuration = int.Parse(Console.ReadLine());

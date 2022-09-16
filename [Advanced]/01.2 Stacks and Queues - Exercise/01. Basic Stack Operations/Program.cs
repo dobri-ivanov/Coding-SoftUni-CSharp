@@ -1,14 +1,13 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _01._Basic_Stack_Operations
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-
             int[] arg = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int n = arg[0];
             int s = arg[1];

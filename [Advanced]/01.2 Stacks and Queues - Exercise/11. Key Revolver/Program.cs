@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _11._Key_Revolver
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int priceOfBullet = int.Parse(Console.ReadLine());
             int sizeOfBarrel = int.Parse(Console.ReadLine());
@@ -56,7 +56,6 @@ namespace _11._Key_Revolver
                         Console.WriteLine($"Couldn't get through. Locks left: {locks.Count}");
                         return;
                     }
-
                 }
                 else
                 {
@@ -83,7 +82,6 @@ namespace _11._Key_Revolver
                     }
                 }
             }
-
         }
     }
 }

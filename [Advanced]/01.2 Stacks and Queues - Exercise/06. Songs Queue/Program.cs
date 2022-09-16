@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _06._Songs_Queue
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             string[] songs = Console.ReadLine().Split(", ");
             Queue<string> songQueue = new Queue<string>(songs);
@@ -24,7 +24,6 @@ namespace _06._Songs_Queue
                         Console.WriteLine("No more songs!");
                         return;
                     }
-
                 }
                 else if (command == "Add")
                 {
@@ -37,7 +36,6 @@ namespace _06._Songs_Queue
                     {
                         songQueue.Enqueue(song);
                     }
-
                 }
                 else if (command == "Show")
                 {

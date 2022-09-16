@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _05._Fashion_Boutique
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int[] deliveries = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int capacity = int.Parse(Console.ReadLine());
@@ -25,7 +25,6 @@ namespace _05._Fashion_Boutique
                 capacity -= stack.Pop();
             }
             Console.WriteLine(count);
-
         }
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace _12._Cups_and_Bottles
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int[] cupsInput = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int[] bottlesInput = Console.ReadLine().Split().Select(int.Parse).ToArray();
