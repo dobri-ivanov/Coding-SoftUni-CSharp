@@ -5,75 +5,55 @@ namespace _6._Jagged_Array_Modification
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int rows = int.Parse(Console.ReadLine());
-            int[][] jaggedArray = new int[rows][];
+            int size = int.Parse(Console.ReadLine());
+            int[,] matrix = GetMatrixInputData(size);
+            string input;
 
-            for (int row = 0; row < rows; row++)
+            while ((input = Console.ReadLine()) != "END")
             {
-                int[] rowInput = Console.ReadLine().Split().Select(int.Parse).ToArray();
-                int size = rowInput.Length;
-                jaggedArray[row] = new int[size];
+                string[] tokens = input.Split();
+                string command = tokens[0];
+                int rowIndex = int.Parse(tokens[1]);
+                int colIndex = int.Parse(tokens[2]);
+                int value = int.Parse(tokens[3]);
+                if (IndexIsValid(rowIndex, size) && IndexIsValid(colIndex, size))
+                {
+                    if (command == "Add")
+                        matrix[rowIndex, colIndex] += value;
+                    else if (command == "Subtract")
+                        matrix[rowIndex, colIndex] -= value;
+                }
+                else
+                    Console.WriteLine("Invalid coordinates");
+            }
+
+            for (int row = 0; row < size; row++)
+            {
                 for (int col = 0; col < size; col++)
                 {
-                    jaggedArray[row][col] = rowInput[col];
-                }  
-            }
-
-            while (true)
-            {
-                string[] input = Console.ReadLine().Split();
-                if (input[0] == "END")
-                {
-                    for (int row = 0; row < rows; row++)
-                    {
-                        int size = jaggedArray[row].Length;
-                        for (int col = 0; col < size; col++)
-                        {
-                            Console.Write(jaggedArray[row][col] + " ");
-                        }
-                        Console.WriteLine();
-                    }
-                    return;
+                    Console.Write(matrix[row, col] + " ");
                 }
-                else if (input[0] == "Add")
-                {
-                    int rowCoord = int.Parse(input[1]);
-                    int colCoord = int.Parse(input[2]);
-                    int value = int.Parse(input[3]);
-
-                    if (rowCoord < rows && rowCoord >= 0)
-                    {
-                        if (colCoord < jaggedArray[rowCoord].Length && colCoord >= 0)
-                        {
-                            jaggedArray[rowCoord][colCoord] += value;
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid coordinates");
-                    }
-                }
-                else if (input[0] == "Subtract")
-                {
-                    int rowCoord = int.Parse(input[1]);
-                    int colCoord = int.Parse(input[2]);
-                    int value = int.Parse(input[3]);
-
-                    if (rowCoord < rows && rowCoord >= 0)
-                    {
-                        if (colCoord < jaggedArray[rowCoord].Length && colCoord >= 0)
-                        {
-                            jaggedArray[rowCoord][colCoord] -= value;
-                        }  
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid coordinates");
-                    }
-                }
+                Console.WriteLine();
             }
         }
+
+        static int[,] GetMatrixInputData(int size)
+        {
+            int[,] matrix = new int[size, size];
+            for (int row = 0; row < size; row++)
+            {
+                int[] inputLine = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                for (int col = 0; col < size; col++)
+                {
+                    matrix[row, col] = inputLine[col];
+                }
+            }
+            return matrix;
+        }
+
+        static bool IndexIsValid(int index, int size)
+            => index < size && index >= 0;
     }
 }
