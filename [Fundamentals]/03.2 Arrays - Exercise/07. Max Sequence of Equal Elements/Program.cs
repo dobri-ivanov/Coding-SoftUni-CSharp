@@ -7,38 +7,40 @@ namespace _07._Max_Sequence_of_Equal_Elements
     {
         static void Main(string[] args)
         {
-            int[] array = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
-            int[] bestArray = new int[50];
+            int[] array = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            int currentNum = 0;
+            int lastNum = int.MinValue;
+            int sequenceCounter = 0;
+            int maxCounter = 0;
+            int sequenceNum = 0;
 
             for (int i = 0; i < array.Length; i++)
             {
-                int[] currentArray = new int[50];
-                for (int j = i + 1; j < array.Length; j++)
+                currentNum = array[i];
+
+                if (currentNum == lastNum)
                 {
-                    int num1 = array[i];
-                    int num2 = array[j];
-                    if (num1 != num2)
-                    {
-                        break;
-                    }
-                    else
-                    {
-                        currentArray = 
-                    }
+                    sequenceCounter++;
                 }
-                if (currentArray.Length > bestArray.Length)
+                else
                 {
-                    bestArray = currentArray;
+                    sequenceCounter = 1;
                 }
+
+                if (sequenceCounter > maxCounter)
+                {
+                    maxCounter = sequenceCounter;
+                    sequenceNum = currentNum;
+                }
+
+                lastNum = currentNum;
             }
 
-            int[] output = new int[bestArray.Length];
-            for (int i = 0; i < bestArray.Length; i++)
+            for (int i = 0; i < maxCounter; i++)
             {
-                output[i] = int.Parse(bestArray[i].ToString());
+                Console.Write($"{sequenceNum} ");
             }
-
-            Console.WriteLine(String.Join(" ", output));
         }
     }
 }
