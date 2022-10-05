@@ -2,33 +2,31 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _06._Speed_Racing
+namespace _06.SpeedRacing
 {
     public class Car
     {
-        public string Model { get; set; }
-        public double FuelAmount { get; set; }
-        public double FuelConsumptionPerKilometer { get; set; }
-        public double TravelledDistance { get; set; }
+        private string model;
+        private double fuelAmount;
+        private double fuelConsumptionPerKilometer;
+        private double travelledDistance;
 
-        public void Drive(double distance)
+        public string Model { get { return model; } set { model = value; } }
+        public double FuelAmount { get { return fuelAmount; } set { fuelAmount = value; } }
+        public double FuelConsumptionPerKilometer { get { return fuelConsumptionPerKilometer; } set { fuelConsumptionPerKilometer = value; } }
+        public double TravelledDistance { get { return travelledDistance; } set { travelledDistance = value; } }
+
+        public void Drive(double km)
         {
-            if (FuelAmount - distance * FuelConsumptionPerKilometer > 0)
-            {
-                FuelAmount -= distance * FuelConsumptionPerKilometer;
-                TravelledDistance += distance;
-            }
-            else
+            if (km * this.FuelConsumptionPerKilometer > fuelAmount)
             {
                 Console.WriteLine("Insufficient fuel for the drive");
             }
-        }
-        public Car(string model, double fuelAmount, double fuelConsumption)
-        {
-            this.Model = model;
-            this.FuelAmount = fuelAmount;
-            this.FuelConsumptionPerKilometer = fuelConsumption;
-            this.TravelledDistance = 0;
+            else
+            {
+                this.FuelAmount -= km * this.FuelConsumptionPerKilometer;
+                this.TravelledDistance += km;
+            }
         }
     }
 }

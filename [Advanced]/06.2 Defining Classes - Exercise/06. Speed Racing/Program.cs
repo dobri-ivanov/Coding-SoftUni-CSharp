@@ -3,42 +3,54 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 
-namespace _06._Speed_Racing
+namespace _06.SpeedRacing
 {
-    public class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            List<Car> cars = new List<Car>();
-            int n = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n; i++)
+            Dictionary<string, Car> carsByNames = new Dictionary<string, Car>();
+
+            int count = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < count; i++)
             {
-                string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                string model = tokens[0];
-                double fuelAmount = double.Parse(tokens[1]);
-                double fuelConsumption = double.Parse(tokens[2]);
-                Car car = new Car(model, fuelAmount, fuelConsumption);
-                cars.Add(car);
+                string[] carProps = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                Car car = new Car
+                {
+                    Model = carProps[0],
+                    FuelAmount = double.Parse(carProps[1]),
+                    FuelConsumptionPerKilometer = double.Parse(carProps[2])
+                };
+
+                carsByNames.Add(car.Model, car);
             }
 
             while (true)
             {
-                string input = Console.ReadLine();
-                if (input == "End")
+                string command = Console.ReadLine();
+
+                if (command == "End")
                 {
                     break;
                 }
-                string[] tokens = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                string model = tokens[1];
-                double distance = double.Parse(tokens[2]);
 
-                Car car = cars.Single(car => car.Model == model);
-                car.Drive(distance);
+                string[] tokens = command.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                string carModel = tokens[1];
+                double amountOfKilometers = double.Parse(tokens[2]);
+
+                Car car = carsByNames[carModel];
+
+                car.Drive(amountOfKilometers);
             }
-            foreach (var car in cars)
+
+            foreach (var car in carsByNames.Values)
             {
                 Console.WriteLine($"{car.Model} {car.FuelAmount:f2} {car.TravelledDistance}");
             }
         }
+
     }
 }
