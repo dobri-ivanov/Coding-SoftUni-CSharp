@@ -8,13 +8,13 @@ namespace _09.PokemonTrainer
     {
         public string Name { get; set; }
         public int NumberOfBadges { get; set; }
-        public List<Pokemon> Pokemons { get; set; }
+        public Dictionary<string, Pokemon> Pokemons {get; set;}
 
-        public Trainer(string name, int numberOfBadges)
+        public Trainer(string name)
         {
             Name = name;
-            NumberOfBadges = numberOfBadges;
-            this.Pokemons = new List<Pokemon>();
+            NumberOfBadges = 0;
+            this.Pokemons = new Dictionary<string, Pokemon>();
         }
     }
 }
