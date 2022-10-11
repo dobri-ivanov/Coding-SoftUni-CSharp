@@ -1,3 +1,7 @@
+<div align = "center">
+    <img src="https://cdn.discordapp.com/attachments/837093180783722536/1029298088076120155/800px-Logo_Software_University_SoftUni_-_blue.png" width="20%">
+</div>
+
 ## Project including all my solutions of problems during my education at Sotfware University.
 
 # Topics
