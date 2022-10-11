@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Box", "01. Box\01. Box.csproj", "{DF1252E2-91C9-4CDB-9B2F-07A802417E69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOfT", "BoxOfT\BoxOfT.csproj", "{332A0F7E-EA18-4658-BAFF-2F57EDC8475F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericArrayCreator", "GenericArrayCreator\GenericArrayCreator.csproj", "{67754B33-68CD-4516-A321-AB4E2BAD4F29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF1252E2-91C9-4CDB-9B2F-07A802417E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF1252E2-91C9-4CDB-9B2F-07A802417E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF1252E2-91C9-4CDB-9B2F-07A802417E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF1252E2-91C9-4CDB-9B2F-07A802417E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332A0F7E-EA18-4658-BAFF-2F57EDC8475F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332A0F7E-EA18-4658-BAFF-2F57EDC8475F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332A0F7E-EA18-4658-BAFF-2F57EDC8475F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332A0F7E-EA18-4658-BAFF-2F57EDC8475F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67754B33-68CD-4516-A321-AB4E2BAD4F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67754B33-68CD-4516-A321-AB4E2BAD4F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67754B33-68CD-4516-A321-AB4E2BAD4F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67754B33-68CD-4516-A321-AB4E2BAD4F29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

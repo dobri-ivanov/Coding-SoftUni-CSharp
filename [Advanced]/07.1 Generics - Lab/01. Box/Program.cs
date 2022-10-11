@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _01._Box
+namespace BoxOfT
 {
-    internal class Program
+    internal class StartUp
     {
         static void Main(string[] args)
         {
