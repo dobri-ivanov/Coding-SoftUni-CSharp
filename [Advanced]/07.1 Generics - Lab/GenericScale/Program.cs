@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace BoxOfT
+namespace GenericScale
 {
-    internal class StartUp
+    internal class Program
     {
         static void Main(string[] args)
         {
