@@ -32,6 +32,13 @@
 - 08 Text Processing
 - 09 Regular Expressions (Regex)
 
+### Results
+
+- Final Exam - 300/300 points
+- Theoretical Exam - 17/20 points
+- Grade - 6.00
+- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/139379?code=b1bc1be8)
+
 ## [C# Advanced](https://softuni.bg/trainings/3842/csharp-advanced-september-2022) - 13.09.2022
 - 01 Stacks and Queues
 - 02 Multidimensional Arrays
