@@ -1,0 +1,23 @@
+﻿using System;
+using System.Linq;
+
+namespace _05.GenericCountMethodString
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Box<string> box = new Box<string>();
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                string line = Console.ReadLine();
+                box.Items.Add(line);
+            }
+
+            string text = Console.ReadLine();
+            Console.WriteLine(box.Count(text));
+        }
+    }
+}
