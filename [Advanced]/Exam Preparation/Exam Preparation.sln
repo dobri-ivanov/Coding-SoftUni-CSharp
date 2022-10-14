@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Tiles Master", "01. Til
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Wall Destroyer", "02. Wall Destroyer\02. Wall Destroyer.csproj", "{9F224E3A-EE43-458B-87BC-7DECC7C8CFAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renovators", "Renovators\Renovators.csproj", "{78635C15-40DA-4D27-9AFD-C38E81192878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9F224E3A-EE43-458B-87BC-7DECC7C8CFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F224E3A-EE43-458B-87BC-7DECC7C8CFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F224E3A-EE43-458B-87BC-7DECC7C8CFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78635C15-40DA-4D27-9AFD-C38E81192878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78635C15-40DA-4D27-9AFD-C38E81192878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78635C15-40DA-4D27-9AFD-C38E81192878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78635C15-40DA-4D27-9AFD-C38E81192878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
