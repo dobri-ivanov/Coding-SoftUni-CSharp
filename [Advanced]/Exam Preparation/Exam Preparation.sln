@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Bakery Shop", "01. Bake
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Beaver at Work", "02. Beaver at Work\02. Beaver at Work.csproj", "{10A9B7A1-AFC8-4261-8371-AD400D6CC131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6709334E-4594-40D6-9F00-E719A8CC8BEF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{10A9B7A1-AFC8-4261-8371-AD400D6CC131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A9B7A1-AFC8-4261-8371-AD400D6CC131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A9B7A1-AFC8-4261-8371-AD400D6CC131}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6709334E-4594-40D6-9F00-E719A8CC8BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6709334E-4594-40D6-9F00-E719A8CC8BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6709334E-4594-40D6-9F00-E719A8CC8BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6709334E-4594-40D6-9F00-E719A8CC8BEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

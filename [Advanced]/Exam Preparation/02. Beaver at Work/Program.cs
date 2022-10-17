@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Numerics;
 
 namespace _02._Beaver_at_Work
 {
@@ -10,15 +8,15 @@ namespace _02._Beaver_at_Work
     {
         public static char[,] matrix;
         public static string currentCommand;
-        public static int braverRow;
-        public static int braverCol;
-        public static Stack<char> collectedBranches;
-        public static int countOfBranches;
+        public static int beaverRow;
+        public static int beaverCol;
+        public static List<char> collectedBranches;
+        public static int countOfcollectedBranches;
 
         public static int n;
         static void Main(string[] args)
         {
-            collectedBranches = new Stack<char>();
+            collectedBranches = new List<char>();
             n = int.Parse(Console.ReadLine());
             matrix = new char[n, n];
             for (int i = 0; i < n; i++)
@@ -29,149 +27,251 @@ namespace _02._Beaver_at_Work
                     matrix[i, j] = rowInput[j];
                     if (rowInput[j] == 'B')
                     {
-                        braverRow = i;
-                        braverCol = j;
+                        beaverRow = i;
+                        beaverCol = j;
                     }
                     else if (char.IsLower(rowInput[j]) && rowInput[j] != '-')
                     {
-                        countOfBranches++;
+                        countOfcollectedBranches++;
                     }
                 }
             }
+
             while (true)
             {
-                bool hasFinished = false;
+                bool isFinished = false;
                 string input = Console.ReadLine();
                 if (input == "end")
                 {
                     break;
                 }
                 currentCommand = input;
-                if (currentCommand == "up")
+                if (input == "up")
                 {
-                    hasFinished = Move(-1, 0);
+                    isFinished = Move(-1, 0);
                 }
-                else if (currentCommand == "down")
+                else if (input == "down")
                 {
-                    hasFinished = Move(1, 0);
+                    isFinished = Move(1, 0);
                 }
-                else if (currentCommand == "left")
+                else if (input == "left")
                 {
-                    hasFinished = Move(0, -1);
+                    isFinished = Move(0, -1);
                 }
-                else if (currentCommand == "right")
+                else if (input == "right")
                 {
-                    hasFinished = Move(0, 1);
+                    isFinished = Move(0, 1);
+                }
 
-                }
-                if (hasFinished)
+                if (isFinished)
                 {
-                    Console.WriteLine($"The Beaver successfully collect {collectedBranches.Count} wood branches: {String.Join(", ", collectedBranches)}.");
-                    PrintMatrix();
-                    return;
+                    Console.WriteLine($"The Beaver successfully collect {collectedBranches.Count} wood collectedBranches: {String.Join(", ", collectedBranches)}.");
+                    break;
                 }
             }
-            Console.WriteLine($"The Beaver failed to collect every wood branch. There are {countOfBranches} branches left.");
+            if (countOfcollectedBranches > 0)
+            {
+                Console.WriteLine($"The Beaver failed to collect every wood branch. There are {countOfcollectedBranches} collectedBranches left.");
+            }
             PrintMatrix();
         }
 
         private static bool Move(int rowValue, int colValue)
         {
-            int currentRowIndex = braverRow + rowValue;
-            int currentColIndex = braverCol + colValue;
 
-            if (AreValidIndexes(currentRowIndex, currentColIndex))
+            int currentRow = beaverRow + rowValue;
+            int currentCol = beaverCol + colValue;
+
+            if (AreValidCoords(currentRow, currentCol))
             {
-                char symbol = matrix[currentRowIndex, currentColIndex];
-                if (symbol == '-')
+                char symbol = matrix[currentRow, currentCol];
+                if (char.IsLower(symbol))
                 {
-                    matrix[braverRow, braverCol] = '-';
-                    matrix[currentRowIndex, currentColIndex] = 'B';
-                    braverRow = currentRowIndex;
-                    braverCol = currentColIndex;
+                    matrix[beaverRow, beaverCol] = '-';
+                    matrix[currentRow, currentCol] = 'B';
+                    beaverRow = currentRow;
+                    beaverCol = currentCol;
+                    collectedBranches.Add(symbol);
+                    countOfcollectedBranches--;
                 }
-                else if (char.IsLower(symbol) && symbol != '-')
+                else if (symbol == '-')
                 {
-                    matrix[braverRow, braverCol] = '-';
-                    matrix[currentRowIndex, currentColIndex] = 'B';
-                    braverRow = currentRowIndex;
-                    braverCol = currentColIndex;
-                    collectedBranches.Push(symbol);
-                    countOfBranches--;
-                    if (countOfBranches == 0)
-                    {
-                        Console.WriteLine();
-                        return true;
-                    }
+                    matrix[beaverRow, beaverCol] = '-';
+                    matrix[currentRow, currentCol] = 'B';
+                    beaverRow = currentRow;
+                    beaverCol = currentCol;
                 }
                 else if (symbol == 'F')
                 {
-                    matrix[braverRow, braverCol] = '-';
-                    matrix[currentRowIndex, currentColIndex] = 'B';
-                    braverRow = currentRowIndex;
-                    braverCol = currentColIndex;
-                    EatFish();
+                    matrix[beaverRow, beaverCol] = '-';
+                    matrix[beaverRow, beaverCol] = '-';
+
+                    if (currentCommand == "up")
+                    {
+                        if (beaverRow == 0)
+                        {
+                            if (char.IsLower(matrix[matrix.GetLength(0) - 1, beaverCol]))
+                            {
+                                collectedBranches.Add(matrix[matrix.GetLength(0) - 1, beaverCol]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverRow = matrix.GetLength(0) - 1;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                        else
+                        {
+                            if (char.IsLower(matrix[0, beaverCol]))
+                            {
+                                collectedBranches.Add(matrix[0, beaverCol]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverRow = 0;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                    }
+                    else if (currentCommand == "down")
+                    {
+                        if (beaverRow == matrix.GetLength(0) - 1)
+                        {
+                            if (char.IsLower(matrix[0, beaverCol]))
+                            {
+                                collectedBranches.Add(matrix[0, beaverCol]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverRow = 0;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                        else
+                        {
+                            if (char.IsLower(matrix[matrix.GetLength(0) - 1, beaverCol]))
+                            {
+                                collectedBranches.Add(matrix[matrix.GetLength(0) - 1, beaverCol]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverRow = matrix.GetLength(0) - 1;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                    }
+                    else if (currentCommand == "right")
+                    {
+                        if (beaverCol == matrix.GetLength(1) - 1)
+                        {
+                            if (char.IsLower(matrix[beaverRow, 0]))
+                            {
+                                collectedBranches.Add(matrix[beaverRow, 0]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverCol = 0;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                        else
+                        {
+                            if (char.IsLower(matrix[beaverRow, matrix.GetLength(1) - 1]))
+                            {
+                                collectedBranches.Add(matrix[beaverRow, matrix.GetLength(1) - 1]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverCol = matrix.GetLength(1) - 1;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                    }
+                    else if (currentCommand == "left")
+                    {
+                        if (beaverCol == 0)
+                        {
+                            if (char.IsLower(matrix[beaverRow, matrix.GetLength(1) - 1]))
+                            {
+                                collectedBranches.Add(matrix[beaverRow, matrix.GetLength(1) - 1]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverCol = matrix.GetLength(1) - 1;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                        else
+                        {
+                            if (char.IsLower(matrix[beaverRow, 0]))
+                            {
+                                collectedBranches.Add(matrix[beaverRow, 0]);
+                                countOfcollectedBranches--;
+                            }
+                            beaverCol = 0;
+                            matrix[beaverRow, beaverCol] = 'B';
+                        }
+                    }
                 }
             }
             else
             {
-                collectedBranches.Pop();
+                if (collectedBranches.Any())
+                {
+                    collectedBranches.Remove(collectedBranches[collectedBranches.Count - 1]);
+                }
             }
+
+
+            if (countOfcollectedBranches == 0)
+            {
+                return true;
+            }
+
             return false;
         }
 
-        private static void EatFish()
+        private static bool EatFish()
         {
+            bool result = false;
             if (currentCommand == "up")
             {
-                if (braverRow != 0)
+                if (beaverRow != 0)
                 {
-                    Move(-braverRow, 0);
+                    result = Move(-beaverRow, 0);
                 }
                 else
                 {
-                    Move(n - 1 - braverRow, 0);
+                    result = Move(matrix.GetLength(0) - 1 - beaverRow, 0);
                 }
             }
             else if (currentCommand == "down")
             {
-                if (braverRow != n - 1)
+                if (beaverRow != matrix.GetLength(0) - 1)
                 {
-                    Move(n - 1 - braverRow, 0);
+                    result = Move(matrix.GetLength(0) - 1 - beaverRow, 0);
                 }
                 else
                 {
-                    Move(-braverRow, 0);
+                    result = Move(-beaverRow, 0);
                 }
             }
             else if (currentCommand == "left")
             {
-                if (braverCol != 0)
+                if (beaverCol != 0)
                 {
-                    Move(0, -braverRow);
+                    result = Move(0, -beaverCol);
                 }
                 else
                 {
-                    Move(0, n - 1 - braverCol);
+                    result = Move(0, matrix.GetLength(1) - 1 - beaverCol);
                 }
             }
             else if (currentCommand == "right")
             {
-                if (braverCol != n - 1)
+                if (beaverCol != matrix.GetLength(1) - 1)
                 {
-                    Move(0, n - 1 - braverCol);
+                    result = Move(0, matrix.GetLength(1) - 1 - beaverCol);
                 }
                 else
                 {
-                    Move(0, -braverCol);
+                    result = Move(0, -beaverCol);
                 }
             }
+            return result;
+            
         }
 
-        private static bool AreValidIndexes(int currentRowIndex, int currentColIndex)
+        private static bool AreValidCoords(int currentRow, int currentCol)
         {
-            if (currentRowIndex >= 0 && currentRowIndex < matrix.GetLength(0) &&
-                currentColIndex >= 0 && currentColIndex < matrix.GetLength(1))
+            if (currentRow >= 0 && currentRow < matrix.GetLength(0) && 
+                currentCol >= 0 && currentCol < matrix.GetLength(1))
             {
                 return true;
             }
