@@ -17,8 +17,7 @@
 
 ### Results
 
-- Mid Exam - 300/300 points
-- Final Exam - 300/300 points
+- Regular Exam - 300/300 points
 - Theoretical Exam - 15/15 points
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/124890?code=88cdd95e)
@@ -36,6 +35,7 @@
 
 ### Results
 
+- Mid Exam - 300/300 points
 - Final Exam - 300/300 points
 - Theoretical Exam - 17/20 points
 - Grade - 6.00
