@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Bakery Shop", "01. Bake
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Beaver at Work", "02. Beaver at Work\02. Beaver at Work.csproj", "{10A9B7A1-AFC8-4261-8371-AD400D6CC131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Help-A-Mole", "02. Help-A-Mole\02. Help-A-Mole.csproj", "{5CD8A3B7-69B4-4D1D-B785-511D40BD49C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Help-A-Mole", "02. Help-A-Mole\02. Help-A-Mole.csproj", "{5CD8A3B7-69B4-4D1D-B785-511D40BD49C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball", "Basketball\Basketball.csproj", "{0559755A-C74D-4B64-98FA-4A790F9D4DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basketball", "Basketball\Basketball.csproj", "{0559755A-C74D-4B64-98FA-4A790F9D4DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Barista Contest", "01. Barista Contest\01. Barista Contest.csproj", "{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{0559755A-C74D-4B64-98FA-4A790F9D4DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0559755A-C74D-4B64-98FA-4A790F9D4DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0559755A-C74D-4B64-98FA-4A790F9D4DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
