@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Help-A-Mole", "02. Help
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basketball", "Basketball\Basketball.csproj", "{0559755A-C74D-4B64-98FA-4A790F9D4DE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Barista Contest", "01. Barista Contest\01. Barista Contest.csproj", "{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Barista Contest", "01. Barista Contest\01. Barista Contest.csproj", "{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Truffle Hunter", "02. Truffle Hunter\02. Truffle Hunter.csproj", "{9A35DC51-120F-4B11-8DA8-828FF06D428D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3B7C7C-D4DA-42A4-A277-CE7546C60EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A35DC51-120F-4B11-8DA8-828FF06D428D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A35DC51-120F-4B11-8DA8-828FF06D428D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A35DC51-120F-4B11-8DA8-828FF06D428D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A35DC51-120F-4B11-8DA8-828FF06D428D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
