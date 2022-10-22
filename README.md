@@ -59,3 +59,20 @@
 - Theoretical Exam - 16/20 points
 - Grade - 6.00
 - [Certificate](waiting fo it)
+
+## [C# OOP](https://softuni.bg/trainings/3843/csharp-oop-october-2022) - 25.10.2022
+- 01 Inheritance
+- 02 Encapsulation
+- 03 Interfaces and Abstraction
+- 04 Polymorphism
+- 05 Exceptions and Error Handling
+- 06 Reflection and Attributes
+- 07 Unit Testing
+- 08 Mocking and Test Driven Development
+
+### Results
+
+- Regular Exam - 
+- Theoretical Exam - 
+- Grade -
+- [Certificate]
