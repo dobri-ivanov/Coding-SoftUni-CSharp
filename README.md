@@ -52,3 +52,8 @@
 - 08 Implementing Stack and Queue
 - 09 Generics
 - 10 Iteratos and Comparators
+
+- Regular Exam - 300/300 points
+- Theoretical Exam - 16/20 points
+- Grade - 6.00
+- [Certificate](waiting fo it)
