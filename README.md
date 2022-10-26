@@ -58,7 +58,7 @@
 - Regular Exam - 300/300 points
 - Theoretical Exam - 16/20 points
 - Grade - 6.00
-- [Certificate](waiting fo it)
+- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/144009?code=585e638c)
 
 ## [C# OOP](https://softuni.bg/trainings/3843/csharp-oop-october-2022) - 25.10.2022
 - 01 Inheritance
