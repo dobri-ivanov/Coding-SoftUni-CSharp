@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _01._Single_Inheritance
+namespace Farm
 {
     public class Animal
     {
-        public void Eat()
+        public void Eat() 
         {
             Console.WriteLine("eating...");
         }
+
     }
 }
