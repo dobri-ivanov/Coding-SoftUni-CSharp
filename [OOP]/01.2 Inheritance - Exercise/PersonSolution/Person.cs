@@ -11,7 +11,7 @@ namespace PersonSolution
             this.Name = name;
             this.Age = age; 
         }
-        public virtual string Name { get; set; }
+        public string Name { get; set; }
         public virtual int Age
         {
             get { return this.age; }
