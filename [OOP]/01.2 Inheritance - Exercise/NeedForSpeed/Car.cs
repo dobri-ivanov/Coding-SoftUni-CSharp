@@ -8,7 +8,7 @@ namespace NeedForSpeed
     {
         public Car(int horsePower, double fuel) : base(horsePower, fuel)  
         {
-            this.DefaultFuelConsumption = 3;
+            this.FuelConsumption = 3;
         }
     }
 }

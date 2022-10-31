@@ -8,20 +8,23 @@ namespace NeedForSpeed
     {
         public Vehicle(int horsePower, double fuel)
         {
-            DefaultFuelConsumption = 1.25;
+            this.FuelConsumption = DEFAULT_FUEL_CONSUMPTION; 
             Fuel = fuel;
             HorsePower = horsePower;
         }
 
-        public double DefaultFuelConsumption { get; set; }
+        private const double DEFAULT_FUEL_CONSUMPTION = 1.25;
         public virtual double FuelConsumption { get; set; }
         public double Fuel { get; set; }
         public int HorsePower { get; set; }
 
         public virtual void Drive(double kilometers)
         {
-            double fuelToBeRemoved = kilometers / 100 * this.DefaultFuelConsumption;
-            this.Fuel -= fuelToBeRemoved;
+            double fuelToBeRemoved = Fuel - FuelConsumption * kilometers;
+            if (fuelToBeRemoved >= 0)
+            {
+                this.Fuel = fuelToBeRemoved;
+            }
         }
     }
 }
