@@ -11,72 +11,64 @@ namespace _03._Shopping_Spree
         {
             List<Person> people = new List<Person>();
             List<Product> products = new List<Product>();
-            string[] names = Console.ReadLine().Split(';', StringSplitOptions.RemoveEmptyEntries);
-            string[] productsInput = Console.ReadLine().Split(';', StringSplitOptions.RemoveEmptyEntries);
-
-            for (int i = 0; i < names.Length; i++)
+            try
             {
-                string[] currentNameValues = names[i].Split('=', StringSplitOptions.RemoveEmptyEntries);
-                string name = currentNameValues[0];
-                double money = double.Parse(currentNameValues[1]);
-
-                try
-                {
-                    Person person = new Person(name, money);
-                    people.Add(person);
-
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
+                people = ReadPeopleInfo();
+                products = ReadProductsInfo();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
+            }
+            string input;
+            while ((input = Console.ReadLine()) != "END")
+            {
+                string personName = input.Split().First();
+                string productName = input.Split().Last();
+                Person currentPerson = people.Find(p => p.Name == personName);
+                Product currentProduct = products.Find(p => p.Name == productName);
+                if (currentPerson != null && currentProduct != null)
+                    currentPerson.BuyProduct(currentProduct);
             }
 
-            for (int i = 0; i < productsInput.Length; i++)
+            foreach (Person person in people)
             {
-                string[] currentProductValues = productsInput[i].Split('=', StringSplitOptions.RemoveEmptyEntries);
-                string productName = currentProductValues[0];
-                double productCost = double.Parse(currentProductValues[1]);
-
-                try
-                {
-                    Product product = new Product(productName, productCost);
-                    products.Add(product);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
+                if (person.Bag.Any())
+                    Console.WriteLine(person.Name + " - " + String.Join(", ", person.Bag));
+                else
+                    Console.WriteLine($"{person.Name} - Nothing bought");
             }
+        }
 
-            while (true)
+        private static List<Person> ReadPeopleInfo()
+        {
+            List<Person> people = new List<Person>();
+            string[] info = Console.ReadLine().Split(';', StringSplitOptions.RemoveEmptyEntries);
+            for (int i = 0; i < info.Length; i++)
             {
-                string input = Console.ReadLine();
-                if (input == "END")
-                {
-                    break;
-                }
-
-                string[] tokens = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                string currentPersonName = tokens[0];
-                string currentProductName = tokens[1];
-                if (people.Any(x => x.Name == currentPersonName) && products.Any(x => x.Name == currentProductName))
-                {
-                    Person person = people.Find(x => x.Name == currentPersonName);
-                    Product product = products.Find(x => x.Name == currentProductName);
-                    bool success = person.BuyProduct(product);
-                    if (!success)
-                    {
-                        Console.WriteLine($"{person.Name} can't afford {product.Name}");
-                    }
-                    else
-                    {
-                        Console.WriteLine($"{person.Name} bpught {product.Name}");
-                    }
-                }
+                string name = info[i]
+                    .Split('=', StringSplitOptions.RemoveEmptyEntries).First();
+                decimal money = decimal.Parse(info[i]
+                    .Split('=', StringSplitOptions.RemoveEmptyEntries).Last());
+                people.Add(new Person(name, money));
             }
+            return people;
+        }
 
-            people.ForEach(i => Console.WriteLine(i.ToString()));
+        private static List<Product> ReadProductsInfo()
+        {
+            List<Product> products = new List<Product>();
+            string[] info = Console.ReadLine().Split(';', StringSplitOptions.RemoveEmptyEntries);
+            for (int i = 0; i < info.Length; i++)
+            {
+                string name = info[i]
+                    .Split('=', StringSplitOptions.RemoveEmptyEntries).First();
+                decimal cost = decimal.Parse(info[i]
+                    .Split('=', StringSplitOptions.RemoveEmptyEntries).Last());
+                products.Add(new Product(name, cost));
+            }
+            return products;
         }
     }
 }

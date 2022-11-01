@@ -1,64 +1,59 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace _03._Shopping_Spree
 {
     public class Person
     {
-        public Person(string name, double money)
-        {
-            this.Name = name;
-            this.Money = money;
-            bagOfProdicts = new List<Product>();
-        }
+        // Fields
         private string name;
-        private double money;
-        private List<Product> bagOfProdicts;
+        private decimal money;
+        private readonly List<Product> bag;
 
-
+        // Properties
         public string Name
         {
             get { return name; }
             set
             {
-                if (String.IsNullOrEmpty(value)) throw new ArgumentException("Name cannot be empty.");
-                this.name = value;
+                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException("Name cannot be empty");
+                name = value;
             }
         }
-        public double Money
+        public decimal Money
         {
-            get { return this.money; }
+            get { return money; }
             set
             {
-                if (value < 0) throw new ArgumentException("Money cannot be a negative number.");
-                this.money = value;
+                if (value < 0)
+                    throw new ArgumentException("Money cannot be negative");
+                money = value;
             }
         }
+        public IReadOnlyCollection<Product> Bag { get { return bag.AsReadOnly(); } }
 
-        public bool BuyProduct(Product product)
+        // Constructors
+        public Person(string name, decimal money)
         {
-            if (this.Money >= product.Cost)
+            this.Name = name;
+            this.Money = money;
+            this.bag = new List<Product>();
+        }
+
+        // Methods
+        public void BuyProduct(Product product)
+        {
+            if (this.money >= product.Cost)
             {
-                this.bagOfProdicts.Add(product);
+                Console.WriteLine($"{this.Name} bought {product}");
                 this.money -= product.Cost;
-                return true;
+                this.bag.Add(product);
             }
-            return false;
-        }
-
-        public override string ToString()
-        {
-            List<string> products = new List<string>();
-            foreach (var item in bagOfProdicts)
-            {
-                products.Add(item.Name);
-            }
-            if (products.Count == 0)
-            {
-                return $"{this.Name} - Nothing bought";
-            }
-            return $"{this.Name} - {String.Join(", ", products)}";
+            else
+                Console.WriteLine($"{this.Name} can't afford {product}");
         }
 
     }
