@@ -69,6 +69,10 @@ namespace _03._Shopping_Spree
                     {
                         Console.WriteLine($"{person.Name} can't afford {product.Name}");
                     }
+                    else
+                    {
+                        Console.WriteLine($"{person.Name} bpught {product.Name}");
+                    }
                 }
             }
 
