@@ -66,9 +66,12 @@
 - 03 Interfaces and Abstraction
 - 04 Polymorphism
 - 05 Exceptions and Error Handling
-- 06 Reflection and Attributes
-- 07 Unit Testing
-- 08 Mocking and Test Driven Development
+- 06 Debugging Techniques
+- 07 SOLID
+- 08 Reflection and Attributes
+- 09 Unit Testing
+- 10 Mocking and Test Driven Development
+- 11 Design Patterns
 
 ### Results
 
