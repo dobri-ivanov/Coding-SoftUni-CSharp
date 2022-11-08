@@ -22,5 +22,4 @@ namespace Shapes
         public override string Draw()
         => base.Draw() + this.GetType().Name;
     }
-    }
 }
