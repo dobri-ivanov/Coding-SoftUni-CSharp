@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{413F0695-1851-4DB1-A882-99834151A40C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{E6C6FF88-F740-431B-BB67-D0254A1B0EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1BC914AB-0432-4E86-880A-E0F306F17259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{413F0695-1851-4DB1-A882-99834151A40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413F0695-1851-4DB1-A882-99834151A40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{413F0695-1851-4DB1-A882-99834151A40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C6FF88-F740-431B-BB67-D0254A1B0EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C6FF88-F740-431B-BB67-D0254A1B0EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C6FF88-F740-431B-BB67-D0254A1B0EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C6FF88-F740-431B-BB67-D0254A1B0EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC914AB-0432-4E86-880A-E0F306F17259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC914AB-0432-4E86-880A-E0F306F17259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC914AB-0432-4E86-880A-E0F306F17259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC914AB-0432-4E86-880A-E0F306F17259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
