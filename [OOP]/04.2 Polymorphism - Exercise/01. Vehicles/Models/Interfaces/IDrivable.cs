@@ -10,6 +10,6 @@ namespace _01._Vehicles.Models.Interfaces
         public double FuelConsumptionPerKilometer { get; set; }
         public double TankCapacity { get; set; }
         public string Drive(double kilometers);
-        public string Refuel(double fuel, double multiplayer = default == null);
+        public string Refuel(double fuel);
     }
 }

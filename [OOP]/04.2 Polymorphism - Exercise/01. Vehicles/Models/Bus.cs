@@ -28,17 +28,6 @@ namespace _01._Vehicles.Models
             return "Bus needs refueling";
         }
 
-        public string Drive(double kilometers, double multiplyer)
-        {
-            double currentFuelConsumption = FuelConsumptionPerKilometer + multiplyer;
-            if (FuelQuantitiy >= kilometers * currentFuelConsumption)
-            {
-                FuelQuantitiy -= kilometers * currentFuelConsumption;
-                return $"Bus travelled {kilometers} km";
-            }
-            return "Bus needs refueling";
-        }
-
         public string Refuel(double fuel)
         {
             if (fuel + FuelQuantitiy > TankCapacity)
@@ -48,5 +37,6 @@ namespace _01._Vehicles.Models
             FuelQuantitiy += fuel;
             return null;
         }
+
     }
 }

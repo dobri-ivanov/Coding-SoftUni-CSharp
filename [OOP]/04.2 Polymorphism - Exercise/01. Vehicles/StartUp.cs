@@ -58,6 +58,11 @@ namespace _01._Vehicles
                     string output = vehicles[index].Drive(value);
                     Console.WriteLine(output);
                 }
+                else if (command == "DriveEmpty")
+                {
+                    string output = vehicles[index].Drive(value, 1.4);
+                    Console.WriteLine(output);
+                }
                 else if (command == "Refuel")
                 {
                     string output = vehicles[index].Refuel(value);
