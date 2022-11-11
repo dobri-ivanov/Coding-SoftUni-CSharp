@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Project including all my solutions of problems during my education at SoftUni.
+## Project including all my of solutions during my education at SoftUni.
 
 # Courses
 ## [Programming Basics with C#](https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022) - 08.01.2022
