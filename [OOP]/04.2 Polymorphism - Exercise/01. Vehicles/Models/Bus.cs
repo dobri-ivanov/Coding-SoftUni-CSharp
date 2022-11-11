@@ -5,38 +5,24 @@ using System.Text;
 
 namespace _01._Vehicles.Models
 {
-    public class Bus : IDrivable
+    public class Bus : Vehicle
     {
-        public Bus(double fuelQuantitiy, double fuelConsumptionPerKilometer, double tankCapacity)
+        private const double CONSUMPTION_INCREASE = 1.4;
+
+        public Bus(double fuelQuantity, double fuelConsumption, double tankCapacity)
+            : base(fuelQuantity, fuelConsumption, tankCapacity)
+        { }
+
+        public override void Drive(double km)
         {
-            FuelQuantitiy = fuelQuantitiy;
-            FuelConsumptionPerKilometer = fuelConsumptionPerKilometer;
-            TankCapacity = tankCapacity;
+            base.fuelConsumption += CONSUMPTION_INCREASE;
+            base.Drive(km);
+            base.fuelConsumption -= CONSUMPTION_INCREASE;
         }
 
-        public double FuelQuantitiy { get; set; }
-        public double FuelConsumptionPerKilometer { get; set; }
-        public double TankCapacity { get; set; }
-
-        public string Drive(double kilometers)
+        public void DriveEmpty(double km)
         {
-            if(FuelQuantitiy >= kilometers * FuelConsumptionPerKilometer)
-            {
-                FuelQuantitiy -= kilometers * FuelConsumptionPerKilometer;
-                return $"Bus travelled {kilometers} km";
-            }
-            return "Bus needs refueling";
+            base.Drive(km);
         }
-
-        public string Refuel(double fuel)
-        {
-            if (fuel + FuelQuantitiy > TankCapacity)
-            {
-                return $"Cannot fit {fuel} fuel in the tank";
-            }
-            FuelQuantitiy += fuel;
-            return null;
-        }
-
     }
 }
