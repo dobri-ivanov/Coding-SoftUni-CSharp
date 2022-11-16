@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{4B7DDE28-335C-41ED-A20F-26F89155EBDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{4B7DDE28-335C-41ED-A20F-26F89155EBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Cards", "03.Cards\03.Cards.csproj", "{0020C810-D21B-4B2A-A361-DB9511CBE82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Integers", "04. Sum of Integers\04. Sum of Integers.csproj", "{4F48448F-9150-422B-B08B-4E8613F2A259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4B7DDE28-335C-41ED-A20F-26F89155EBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B7DDE28-335C-41ED-A20F-26F89155EBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B7DDE28-335C-41ED-A20F-26F89155EBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0020C810-D21B-4B2A-A361-DB9511CBE82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0020C810-D21B-4B2A-A361-DB9511CBE82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0020C810-D21B-4B2A-A361-DB9511CBE82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0020C810-D21B-4B2A-A361-DB9511CBE82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F48448F-9150-422B-B08B-4E8613F2A259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F48448F-9150-422B-B08B-4E8613F2A259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F48448F-9150-422B-B08B-4E8613F2A259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F48448F-9150-422B-B08B-4E8613F2A259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
