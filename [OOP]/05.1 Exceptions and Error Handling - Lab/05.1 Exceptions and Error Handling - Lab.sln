@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Cards", "03.Cards\03.Car
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Integers", "04. Sum of Integers\04. Sum of Integers.csproj", "{4F48448F-9150-422B-B08B-4E8613F2A259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Play Catch", "05. Play Catch\05. Play Catch.csproj", "{0B79954D-53A5-443A-9FA6-B230C3E52679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Money Transactions", "06. Money Transactions\06. Money Transactions.csproj", "{2DA3314B-CBAF-43BA-8087-FBB05D2C72F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4F48448F-9150-422B-B08B-4E8613F2A259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F48448F-9150-422B-B08B-4E8613F2A259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F48448F-9150-422B-B08B-4E8613F2A259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B79954D-53A5-443A-9FA6-B230C3E52679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B79954D-53A5-443A-9FA6-B230C3E52679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B79954D-53A5-443A-9FA6-B230C3E52679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B79954D-53A5-443A-9FA6-B230C3E52679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA3314B-CBAF-43BA-8087-FBB05D2C72F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA3314B-CBAF-43BA-8087-FBB05D2C72F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA3314B-CBAF-43BA-8087-FBB05D2C72F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA3314B-CBAF-43BA-8087-FBB05D2C72F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
