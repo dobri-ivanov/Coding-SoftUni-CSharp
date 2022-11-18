@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Text;
 
-namespace _01.Stealer
+namespace Stealer
 {
     public class Hacker
     {
@@ -22,6 +23,5 @@ namespace _01.Stealer
         public void DownloadAllBankAccountsInTheWorld()
         {
         }
-
     }
 }
