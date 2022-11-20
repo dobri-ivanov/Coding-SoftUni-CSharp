@@ -33,15 +33,17 @@ namespace Skeleton.Tests
         [Test]
         public void DeadDummyCanGiveXp()
         {
+            Dummy dummy = new Dummy(0, 10);
+            dummy.GiveExperience();
+            Assert.AreEqual(true, dummy.IsDead());
+        }
+
+        [Test]
+        public void AliveDummyCantGiveXp()
+        {
             Dummy dummy = new Dummy(2, 10);
-            try
-            {
-                dummy.GiveExperience();
-            }
-            catch (InvalidOperationException)
-            {
-                Assert.AreEqual(0, dummy.Health);
-            }
+            dummy.GiveExperience();
+            Assert.AreEqual(true, dummy.IsDead());
         }
     }
 }
