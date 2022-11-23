@@ -6,11 +6,16 @@ namespace Skeleton.Tests
     [TestFixture]
     public class AxeTests
     {
+        Dummy dummy;
+        [SetUp]
+        public void SetUp()
+        {
+            dummy = new Dummy(10, 10);
+        }
         [Test]
         public void AxeLoosesDurabilityAfterAttack()
         {
             Axe axe = new Axe(10, 10);
-            Dummy dummy = new Dummy(10, 10);
 
             axe.Attack(dummy);
 
@@ -20,10 +25,7 @@ namespace Skeleton.Tests
         public void AxeCantAttackWhenBroken()
         {
             Axe axe = new Axe(0, 0);
-            Dummy dummy = new Dummy(10, 10);
-            
-            axe.Attack(dummy);
-            Assert.AreEqual(10, axe.DurabilityPoints);
+            Assert.Throws<InvalidOperationException>(() => axe.Attack(dummy));
 
 
         }

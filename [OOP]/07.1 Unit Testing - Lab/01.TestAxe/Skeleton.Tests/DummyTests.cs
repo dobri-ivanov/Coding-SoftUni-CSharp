@@ -20,21 +20,13 @@ namespace Skeleton.Tests
         {
             Dummy dummy = new Dummy(0, 10);
             int attackPoints = 5;
-            
-            try
-            {
-                dummy.TakeAttack(attackPoints);
-            }
-            catch (InvalidOperationException)
-            {
-                Assert.AreEqual(0, dummy.Health);
-            }
+
+            Assert.Catch<InvalidOperationException>(() => dummy.TakeAttack(attackPoints));
         }
         [Test]
         public void DeadDummyCanGiveXp()
         {
             Dummy dummy = new Dummy(0, 10);
-            dummy.GiveExperience();
             Assert.AreEqual(true, dummy.IsDead());
         }
 
@@ -42,8 +34,7 @@ namespace Skeleton.Tests
         public void AliveDummyCantGiveXp()
         {
             Dummy dummy = new Dummy(2, 10);
-            dummy.GiveExperience();
-            Assert.AreEqual(true, dummy.IsDead());
+            Assert.Catch<InvalidOperationException>(() => dummy.GiveExperience());
         }
     }
 }
