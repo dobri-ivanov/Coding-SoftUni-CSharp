@@ -22,35 +22,38 @@ namespace BookingApp.Models.Hotels
             this.Category = category;
             this.Rooms = new RoomRepository();
             this.Bookings = new BookingRepository();
-
         }
+
         public string FullName
         {
-            get { return this.fullName; }
+            get => fullName;
             private set
             {
-                if (String.IsNullOrWhiteSpace(value)) throw new ArgumentException(string.Format(ExceptionMessages.HotelNameNullOrEmpty));
-                this.fullName = value;
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException(string.Format(ExceptionMessages.HotelNameNullOrEmpty));
+                }
+                fullName = value;
             }
         }
 
         public int Category
         {
-            get {  return this.category; }  
+            get => category;
             private set
             {
-                if (value < 1 || value > 5) throw new ArgumentException(string.Format(ExceptionMessages.InvalidCategory));
-                this.category = value;
+                if (value < 1 || value > 5)
+                {
+                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidCategory));
+                }
+                category = value;
             }
         }
 
         public double Turnover
-        {
-            get { return Math.Round(Bookings.All().Sum(x => x.ResidenceDuration * x.Room.PricePerNight), 2); }
-        }
+            => Math.Round(Bookings.All().Sum(x => x.ResidenceDuration * x.Room.PricePerNight), 2);
 
         public IRepository<IRoom> Rooms { get; set; }
-
         public IRepository<IBooking> Bookings { get; set; }
     }
 }
