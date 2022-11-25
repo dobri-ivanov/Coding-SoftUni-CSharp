@@ -7,6 +7,7 @@ using Formula1.Repositories.Contracts;
 using Formula1.Utilities;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Formula1.Core
@@ -78,19 +79,33 @@ namespace Formula1.Core
             race.AddPilot(pilot);
             return String.Format(OutputMessages.SuccessfullyAddPilotToRace, pilotFullName, raceName);
         }
-
-
-
-
-
-
-
-
-
         public string StartRace(string raceName)
         {
-            throw new NotImplementedException();
+            if(this.races.FindByName(raceName) == null) throw new NullReferenceException(string.Format(ExceptionMessages.RaceDoesNotExistErrorMessage, raceName));
+            IRace race = this.races.FindByName(raceName);
+            if (race.Pilots.Count < 3) throw new InvalidOperationException(String.Format(ExceptionMessages.InvalidRaceParticipants, raceName));
+            if(race.TookPlace == true) throw new InvalidOperationException(String.Format(ExceptionMessages.RaceTookPlaceErrorMessage, raceName));
+            race.TookPlace = true;
+            var currentRacePilots = race.Pilots.OrderByDescending(p => p.Car.RaceScoreCalculator(race.NumberOfLaps)).ToList();
+            foreach (var racePilot in currentRacePilots)
+            {
+                racePilot.WinRace();
+            }
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Pilot {currentRacePilots[0].FullName} wins the {race.RaceName} race.");
+            sb.AppendLine($"Pilot {currentRacePilots[1].FullName} is second in the {race.RaceName} race.");
+            sb.AppendLine($"Pilot {currentRacePilots[2].FullName} is third in the {race.RaceName} race.");
+            return sb.ToString().TrimEnd();
         }
+
+
+
+
+
+
+
+
+
         public string PilotReport()
         {
             throw new NotImplementedException();
