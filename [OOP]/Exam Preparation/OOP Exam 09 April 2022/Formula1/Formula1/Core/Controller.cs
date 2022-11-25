@@ -54,7 +54,7 @@ namespace Formula1.Core
         {
             if (this.pilots.FindByName(pilotName) == null) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistOrHasCarErrorMessage, pilotName));
             IPilot pilot = this.pilots.FindByName(pilotName);
-            if(pilot.Car == null) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistOrHasCarErrorMessage, pilotName));
+            if(pilot.Car != null) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistOrHasCarErrorMessage, pilotName));
             if(this.cars.FindByName(carModel) == null) throw new NullReferenceException(String.Format(ExceptionMessages.CarDoesNotExistErrorMessage, carModel));
             IFormulaOneCar car = this.cars.FindByName(carModel);
             pilot.AddCar(car);
@@ -69,13 +69,7 @@ namespace Formula1.Core
             if(this.pilots.FindByName(pilotFullName) == null) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistErrorMessage, pilotFullName));
             IPilot pilot = this.pilots.FindByName(pilotFullName);
             if(pilot.CanRace == false) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistErrorMessage, pilotFullName));
-            foreach (var currentRace in this.races.Models)
-            {
-                foreach (var currentPilot in currentRace.Pilots)
-                {
-                    if (currentPilot.FullName == pilotFullName) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistErrorMessage, pilotFullName));
-                }
-            }
+            if(race.Pilots.Any(x => x.FullName == pilotFullName)) throw new InvalidOperationException(String.Format(ExceptionMessages.PilotDoesNotExistErrorMessage, pilotFullName));
             race.AddPilot(pilot);
             return String.Format(OutputMessages.SuccessfullyAddPilotToRace, pilotFullName, raceName);
         }
@@ -97,22 +91,24 @@ namespace Formula1.Core
             sb.AppendLine($"Pilot {currentRacePilots[2].FullName} is third in the {race.RaceName} race.");
             return sb.ToString().TrimEnd();
         }
-
-
-
-
-
-
-
-
-
-        public string PilotReport()
-        {
-            throw new NotImplementedException();
-        }
         public string RaceReport()
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+            List<IRace> races = this.races.Models.Where(x => x.TookPlace == true).ToList();
+            foreach (var race in races)
+            {
+                sb.AppendLine(race.RaceInfo());
+            }
+            return sb.ToString().TrimEnd();
+        }  
+        public string PilotReport()
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (var pilot in this.pilots.Models)
+            {
+                sb.AppendLine(pilot.ToString());
+            }
+            return sb.ToString().TrimEnd();
         }
 
     }

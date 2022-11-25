@@ -48,16 +48,26 @@ namespace Formula1.Models.Races
 
         public void AddPilot(IPilot pilot)
         {
-            this.Pilots.Add(pilot);
+            this.pilots.Add(pilot);
         }
 
         public string RaceInfo()
         {
-            StringBuilder sb = new StringBuilder();
+            string tookplace = "";
+            if (this.TookPlace)
+            {
+                tookplace = "Yes";
+            }
+            else
+            {
+                tookplace = "No";
+            }
+          
+           StringBuilder sb = new StringBuilder();
             sb.AppendLine($"The {this.RaceName} race has:");
             sb.AppendLine($"Participants: {this.Pilots.Count}");
             sb.AppendLine($"Number of laps: {this.NumberOfLaps}");
-            sb.AppendLine($"Took place: {this.TookPlace}");
+            sb.AppendLine($"Took place: {tookplace}");
             return sb.ToString().TrimEnd();
         }
     }
