@@ -1,6 +1,4 @@
-﻿using Heroes.Models.Contracts;
-using Heroes.Models.Heroes;
-using Heroes.Repositories.Contracts;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,10 +6,11 @@ using System.Text;
 
 namespace Heroes.Models.Map
 {
+    using Models.Contracts;
+    using Models.Heroes;
+
     public class Map : IMap
     {
-        private List<IHero> knights;
-        private List<IHero> barbarians;
         public string Fight(ICollection<IHero> players)
         {
             List<IHero> knights = new List<IHero>();
@@ -26,15 +25,11 @@ namespace Heroes.Models.Map
             while (knights.Any(k => k.IsAlive) && barbarians.Any(b => b.IsAlive))
             {
                 if (itIsKnightsTurn)
-                {
-                    itIsKnightsTurn=false;
                     PlayOutRound(knights, barbarians);
-                }
                 else
-                {
-                    itIsKnightsTurn = true;
                     PlayOutRound(barbarians, knights);
-                }
+
+                itIsKnightsTurn = !itIsKnightsTurn;
             }
             if (knights.Any(k => k.IsAlive))
                 return $"The knights took {knights.Where(k => !k.IsAlive).Count()} casualties but won the battle.";
@@ -44,11 +39,9 @@ namespace Heroes.Models.Map
 
         private void PlayOutRound(List<IHero> attackers, List<IHero> defenders)
         {
-            foreach (IHero attacker in attackers)
-                for (int i = 0; i < defenders.Count; i++)
-                    if(attacker.IsAlive && defenders[i].IsAlive)
-                    defenders[i].TakeDamage(attacker.Weapon.DoDamage());
+            foreach (IHero attacker in attackers.Where(x => x.IsAlive))
+                foreach (IHero defender in defenders.Where(x => x.IsAlive))
+                    defender.TakeDamage(attacker.Weapon.DoDamage());
         }
     }
 }
-
