@@ -71,7 +71,15 @@ namespace Gym.Models.Gyms
         public string GymInfo()
         {
             StringBuilder sb = new StringBuilder();
-            string athletesInTheGym = athletes.Any() ? string.Join(", ", athletes.Select(x => x.FullName)) : "No athletes";
+            string athletesInTheGym;
+            if(athletes.Any())
+            {
+                athletesInTheGym = string.Join(", ", athletes.Select(x => x.FullName));
+            }
+            else
+            {
+                athletesInTheGym = "No athletes";
+            }
 
             sb.AppendLine($"{Name} is a {this.GetType().Name}:");
             sb.Append("Athletes: ");
