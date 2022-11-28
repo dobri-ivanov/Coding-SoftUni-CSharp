@@ -1,29 +1,33 @@
 ﻿using Heroes.Models.Contracts;
-using Heroes.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Heroes.Repositories
+namespace Heroes.Repositories.Contracts
 {
     public class WeaponRepository : IRepository<IWeapon>
     {
         private List<IWeapon> weapons;
-        public IReadOnlyCollection<IWeapon> Models => this.weapons.AsReadOnly();
+        public WeaponRepository()
+        {
+            weapons = new List<IWeapon>();
+        }
+
+        public IReadOnlyCollection<IWeapon> Models => weapons.AsReadOnly();
 
         public void Add(IWeapon model)
         {
-            this.weapons.Add(model);
+            weapons.Add(model);
         }
 
         public IWeapon FindByName(string name)
         {
-            return this.weapons.Find(w => w.Name == name);
+            return weapons.Find(x => x.Name == name);
         }
 
         public bool Remove(IWeapon model)
         {
-            return this.weapons.Remove(model);
+            return weapons.Remove(model);
         }
     }
 }

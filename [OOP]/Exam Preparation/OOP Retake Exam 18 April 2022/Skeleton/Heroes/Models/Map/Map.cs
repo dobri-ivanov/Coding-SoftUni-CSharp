@@ -1,5 +1,6 @@
 ﻿using Heroes.Models.Contracts;
 using Heroes.Models.Heroes;
+using Heroes.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,8 @@ namespace Heroes.Models.Map
 {
     public class Map : IMap
     {
-
+        private List<IHero> knights;
+        private List<IHero> barbarians;
         public string Fight(ICollection<IHero> players)
         {
             List<IHero> knights = new List<IHero>();
@@ -24,9 +26,15 @@ namespace Heroes.Models.Map
             while (knights.Any(k => k.IsAlive) && barbarians.Any(b => b.IsAlive))
             {
                 if (itIsKnightsTurn)
+                {
+                    itIsKnightsTurn=false;
                     PlayOutRound(knights, barbarians);
+                }
                 else
+                {
+                    itIsKnightsTurn = true;
                     PlayOutRound(barbarians, knights);
+                }
             }
             if (knights.Any(k => k.IsAlive))
                 return $"The knights took {knights.Where(k => !k.IsAlive).Count()} casualties but won the battle.";
@@ -38,7 +46,9 @@ namespace Heroes.Models.Map
         {
             foreach (IHero attacker in attackers)
                 for (int i = 0; i < defenders.Count; i++)
+                    if(attacker.IsAlive && defenders[i].IsAlive)
                     defenders[i].TakeDamage(attacker.Weapon.DoDamage());
         }
     }
 }
+

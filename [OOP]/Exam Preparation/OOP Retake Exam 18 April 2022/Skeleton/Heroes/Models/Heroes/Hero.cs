@@ -1,8 +1,8 @@
 ﻿using Heroes.Models.Contracts;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design;
 using System.Text;
+using System.Threading;
 
 namespace Heroes.Models.Heroes
 {
@@ -21,62 +21,62 @@ namespace Heroes.Models.Heroes
         }
         public string Name
         {
-            get { return name; }
+            get { return name; } 
             private set
             {
                 if (String.IsNullOrWhiteSpace(value)) throw new ArgumentException("Hero name cannot be null or empty.");
-                this.name = value;
+                name = value;
             }
         }
+
         public int Health
         {
             get { return health; }
-            set
+            private set
             {
                 if (value < 0) throw new ArgumentException("Hero health cannot be below 0.");
-                this.health = value;
+                health = value;
             }
         }
+
         public int Armour
         {
             get { return armour; }
-            set
+            private set
             {
                 if (value < 0) throw new ArgumentException("Hero armour cannot be below 0.");
-                this.armour = value;
-            }
-        }
-        public bool IsAlive
-        {
-            get
-            {
-                if (this.Health > 0) return true;
-                else return false;
+                armour = value;
             }
         }
 
         public IWeapon Weapon
         {
-            get { return this.weapon; }
-            set
+            get { return weapon; }
+            private set
             {
                 if (value == null) throw new ArgumentException("Weapon cannot be null.");
-                this.weapon = value;
+                weapon = value;
             }
         }
 
+        public bool IsAlive => this.health > 0;
 
         public void AddWeapon(IWeapon weapon)
         {
-            this.weapon = weapon;
+            this.Weapon = weapon;
         }
 
         public void TakeDamage(int points)
         {
-            int armourDamage = Math.Min(Armour, points);
-            Armour -= armourDamage;
-            int healthDamage = Math.Min(Health, points - armourDamage);
-            Health -= healthDamage;
+            if (armour > points) armour -= points;
+            else if (armour == points) armour = 0;
+            else
+            {
+                points -= armour;
+                health -= points;
+                if (health <= 0) health = 0;
+            }
+
         }
     }
 }
