@@ -51,7 +51,6 @@ namespace PlanetWars
 
         public IReadOnlyCollection<Weapon> Weapons => this.weapons;
 
-        public double MilitaryPowerRatio => this.weapons.Sum(d => d.DestructionLevel);
 
         public void Profit(double amount)
         {
@@ -75,13 +74,12 @@ namespace PlanetWars
             }
             this.weapons.Add(weapon);
         }
-
         public void RemoveWeapon(string weaponName)
         {
             Weapon weapon = this.weapons.FirstOrDefault(x => x.Name == weaponName);
             this.weapons.Remove(weapon);
         }
-
+        public double MilitaryPowerRatio => this.weapons.Sum(d => d.DestructionLevel);
         public void UpgradeWeapon(string weaponName)
         {
             if(!this.Weapons.Any(x => x.Name == weaponName))
@@ -95,6 +93,11 @@ namespace PlanetWars
                 weapon.IncreaseDestructionLevel();
             }
         }
+
+
+
+
+
 
         public string DestructOpponent(Planet opponent)
         {
