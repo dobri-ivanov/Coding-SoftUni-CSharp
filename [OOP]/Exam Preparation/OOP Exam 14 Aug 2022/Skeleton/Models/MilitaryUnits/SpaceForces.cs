@@ -6,7 +6,7 @@ namespace PlanetWars.Models.MilitaryUnits
 {
     public class SpaceForces : MilitaryUnit
     {
-        const double COST = 2.5;
+        const double COST = 11;
         public SpaceForces() : base(COST)
         {
         }

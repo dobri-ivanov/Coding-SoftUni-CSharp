@@ -51,16 +51,13 @@ namespace PlanetWars.Models.Planets
 
         private double CalculateTotalAmount()
         {
-            double totalPower = units.Sum(x => x.EnduranceLevel) + weapons.Sum(x => x.DestructionLevel);
-            if (units.Any(x => x.GetType().Name == nameof(AnonymousImpactUnit)))
-            {
-                totalPower += totalPower * 0.30;
-            }
-            if (weapons.Any(x => x.GetType().Name == nameof(NuclearWeapon)))
-            {
-                totalPower += totalPower * 0.45;
-            }
-            return Math.Round(totalPower, 3);
+            double totalAmount = Army.Select(x => x.EnduranceLevel).Sum() +
+                                 Weapons.Select(x => x.DestructionLevel).Sum();
+            if (Army.Any(x => x.GetType().Name == "AnonymousImpactUnit"))
+                totalAmount *= 1.30;
+            if (Weapons.Any(x => x.GetType().Name == "NuclearWeapon"))
+                totalAmount *= 1.45;
+            return Math.Round(totalAmount, 3);
 
         }
 
@@ -104,7 +101,7 @@ namespace PlanetWars.Models.Planets
             sb.AppendLine($"--Budget: {Budget} billion QUID");
             sb.AppendLine($"--Forces: {currentUnits}");
             sb.AppendLine($"--Combat equipment: {currentWeapons}");
-            sb.AppendLine($"--ilitary Power: {MilitaryPower}");
+            sb.AppendLine($"--Military Power: {MilitaryPower}");
 
             return sb.ToString().TrimEnd();
         }
@@ -116,7 +113,11 @@ namespace PlanetWars.Models.Planets
 
         public void Spend(double amount)
         {
-            if (amount > Budget) throw new InvalidOperationException(ExceptionMessages.UnsufficientBudget);
+            if (amount > Budget)
+            {
+                throw new InvalidOperationException(ExceptionMessages.UnsufficientBudget);
+
+            }
             Budget -= amount;
         }
 

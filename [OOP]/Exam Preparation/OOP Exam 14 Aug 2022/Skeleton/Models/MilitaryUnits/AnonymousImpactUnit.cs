@@ -6,7 +6,7 @@ namespace PlanetWars.Models.MilitaryUnits
 {
     public class AnonymousImpactUnit : MilitaryUnit
     {
-        const double COST = 2.5;
+        const double COST = 30;
         public AnonymousImpactUnit() : base(COST)
         {
         }
