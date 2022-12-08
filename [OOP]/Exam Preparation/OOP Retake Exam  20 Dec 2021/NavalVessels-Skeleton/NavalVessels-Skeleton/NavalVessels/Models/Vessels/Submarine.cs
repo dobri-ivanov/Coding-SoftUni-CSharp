@@ -3,11 +3,12 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NavalVessels.Models
+namespace NavalVessels.Models.Vessels
 {
     public class Submarine : Vessel, ISubmarine
     {
         private bool submergeMode;
+
         public Submarine(string name, double mainWeaponCaliber, double speed) : base(name, mainWeaponCaliber, speed, 200)
         {
             submergeMode = false;
@@ -35,14 +36,12 @@ namespace NavalVessels.Models
         }
         public override void RepairVessel()
         {
-            if (ArmorThickness > 200) ArmorThickness = 200;
+            ArmorThickness = 200;
         }
         public override string ToString()
         {
-            string mode;
-            if (SubmergeMode) mode = "ON";
-            else mode = "OFF";
-            return base.ToString() + $"{Environment.NewLine} *Submerge mode: {mode}";
+            string submergeModeText = SubmergeMode ? "ON" : "OFF";
+            return base.ToString() + Environment.NewLine + $" *Submerge mode: {submergeModeText}";
         }
     }
 }

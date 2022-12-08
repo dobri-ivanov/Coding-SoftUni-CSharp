@@ -22,7 +22,7 @@ namespace NavalVessels.Repositories
 
         public IVessel FindByName(string name)
         {
-            return vessels.Find(x => x.Name == name);
+            return vessels.Find(x => x.Name == name);   
         }
 
         public bool Remove(IVessel model)

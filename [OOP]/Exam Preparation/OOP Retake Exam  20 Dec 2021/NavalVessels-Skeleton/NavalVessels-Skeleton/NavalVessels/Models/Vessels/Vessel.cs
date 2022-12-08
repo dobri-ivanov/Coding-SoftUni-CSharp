@@ -1,22 +1,20 @@
-﻿
+﻿using NavalVessels.Models.Contracts;
+using NavalVessels.Utilities.Messages;
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Net.Http.Headers;
 using System.Text;
 
-namespace NavalVessels.Models
+namespace NavalVessels.Models.Vessels
 {
-    using Models.Contracts;
-    using System.Linq;
-    using System.Xml.Linq;
-    using Utilities.Messages;
-
     public abstract class Vessel : IVessel
     {
         private string name;
-        private double armorThickness;
+        private ICaptain captain;
+        private double armorThinkness;
         private double mainWeaponCaliber;
         private double speed;
-        private ICaptain captain;
         private List<string> targets;
 
         public Vessel(string name, double mainWeaponCaliber, double speed, double armorThickness)
@@ -27,14 +25,12 @@ namespace NavalVessels.Models
             ArmorThickness = armorThickness;
             targets = new List<string>();
         }
-
         public string Name
         {
             get { return name; }
             private set
             {
-                if (string.IsNullOrWhiteSpace(value))
-                    throw new ArgumentNullException(ExceptionMessages.InvalidVesselName);
+                if (string.IsNullOrWhiteSpace(value)) throw new ArgumentNullException(ExceptionMessages.InvalidVesselName);
                 name = value;
             }
         }
@@ -44,49 +40,51 @@ namespace NavalVessels.Models
             get { return captain; }
             set
             {
-                if (value == null)
-                    throw new NullReferenceException(ExceptionMessages.InvalidCaptainToVessel);
+                if (value == null) throw new NullReferenceException(ExceptionMessages.InvalidCaptainToVessel);
                 captain = value;
             }
         }
-
-
         public double ArmorThickness
         {
-            get { return armorThickness; }
+            get { return armorThinkness; }
             set
             {
-                if (value < 0)
-                    armorThickness = 0;
+                if (armorThinkness < 0)
+                {
+                    armorThinkness = 0;
+                }
                 else
-                    armorThickness = value;
+                {
+                    armorThinkness = value;
+                }
             }
         }
 
+
         public double MainWeaponCaliber
         {
-            get => mainWeaponCaliber;
-            protected set => mainWeaponCaliber = value;
+            get { return mainWeaponCaliber; }
+            protected set { mainWeaponCaliber = value; }
         }
 
         public double Speed
         {
-            get => speed;
-            protected set => speed = value;
+            get { return speed; }
+            protected set { speed = value; }
         }
 
         public ICollection<string> Targets => targets.AsReadOnly();
 
         public void Attack(IVessel target)
         {
-            if (target == null)
-                throw new NullReferenceException(ExceptionMessages.InvalidTarget);
-            target.ArmorThickness -= this.mainWeaponCaliber;
-            this.targets.Add(target.Name);
+            if (target == null) throw new NullReferenceException(ExceptionMessages.InvalidTarget);
+            target.ArmorThickness -= MainWeaponCaliber;
+            targets.Add(target.Name);
         }
 
         public virtual void RepairVessel()
-        { }
+        {
+        }
 
         public override string ToString()
         {
@@ -101,5 +99,6 @@ namespace NavalVessels.Models
             sb.Append($" *Targets: " + targetsString);
             return sb.ToString().TrimEnd();
         }
+
     }
 }

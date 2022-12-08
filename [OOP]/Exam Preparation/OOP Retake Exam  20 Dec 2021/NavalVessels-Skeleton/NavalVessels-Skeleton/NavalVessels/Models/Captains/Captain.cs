@@ -1,14 +1,12 @@
-﻿
+﻿using NavalVessels.Models.Contracts;
+using NavalVessels.Utilities.Messages;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
-namespace NavalVessels.Models
+namespace NavalVessels.Models.Captains
 {
-    using Models.Contracts;
-    using System.Linq;
-    using Utilities.Messages;
-
     public class Captain : ICaptain
     {
         private string fullName;
@@ -21,14 +19,12 @@ namespace NavalVessels.Models
             CombatExperience = 0;
             vessels = new List<IVessel>();
         }
-
         public string FullName
         {
             get { return fullName; }
             private set
             {
-                if (string.IsNullOrWhiteSpace(value))
-                    throw new ArgumentNullException(ExceptionMessages.InvalidCaptainName);
+                if (String.IsNullOrWhiteSpace(value)) throw new ArgumentNullException(ExceptionMessages.InvalidCaptainName);
                 fullName = value;
             }
         }
@@ -43,8 +39,7 @@ namespace NavalVessels.Models
 
         public void AddVessel(IVessel vessel)
         {
-            if (vessel == null)
-                throw new NullReferenceException(ExceptionMessages.InvalidVesselForCaptain);
+            if (vessel == null) throw new NullReferenceException(ExceptionMessages.InvalidVesselForCaptain);
             vessels.Add(vessel);
         }
 
@@ -52,20 +47,19 @@ namespace NavalVessels.Models
         {
             CombatExperience += 10;
         }
-
+        
         public string Report()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append($"{FullName} has {CombatExperience} combat experience and commands {vessels.Count} vessels.");
+            sb.AppendLine($"{FullName} has {CombatExperience} combat experience and commands {vessels.Count} vessels.");
             if (vessels.Any())
             {
-                foreach (IVessel ves in vessels)
+                foreach (var vessel in vessels)
                 {
-                    sb.AppendLine();
-                    ves.ToString();
+                    sb.AppendLine(vessel.ToString());
                 }
             }
-            return sb.ToString();
+            return sb.ToString().TrimEnd();
         }
     }
 }

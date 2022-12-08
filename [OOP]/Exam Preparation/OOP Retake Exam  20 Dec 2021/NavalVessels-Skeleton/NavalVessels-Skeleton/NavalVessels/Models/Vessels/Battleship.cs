@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NavalVessels.Models
+namespace NavalVessels.Models.Vessels
 {
     public class Battleship : Vessel, IBattleship
     {
@@ -33,18 +33,14 @@ namespace NavalVessels.Models
                 Speed += 5;
             }
         }
-
         public override void RepairVessel()
         {
-            if (this.ArmorThickness < 300) this.ArmorThickness = 300;
+            ArmorThickness = 300;
         }
-
         public override string ToString()
         {
-            string mode;
-            if (SonarMode) mode = "ON";
-            else mode = "OFF";
-            return base.ToString() + $"{Environment.NewLine}*Sonar mode: {mode}";
+            string sonarModeText = SonarMode ? "ON" : "OFF";
+            return base.ToString() + Environment.NewLine + $" *Sonar mode: {sonarModeText}";
         }
     }
 }
