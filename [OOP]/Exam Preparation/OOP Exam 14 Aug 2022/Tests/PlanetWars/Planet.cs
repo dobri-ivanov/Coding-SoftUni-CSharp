@@ -95,10 +95,6 @@ namespace PlanetWars
         }
 
 
-
-
-
-
         public string DestructOpponent(Planet opponent)
         {
             if(opponent.MilitaryPowerRatio >= this.MilitaryPowerRatio)

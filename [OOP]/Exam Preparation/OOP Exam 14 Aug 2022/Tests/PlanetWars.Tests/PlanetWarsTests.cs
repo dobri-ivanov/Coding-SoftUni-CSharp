@@ -13,7 +13,7 @@ namespace PlanetWars.Tests
         private Weapon weapon;
         private string weaponName = "WEAPON";
         private double weaponPrice = 5.55;
-        private int weaponLevel = 2;
+        private int weaponLevel = 15;
 
         [SetUp]
         public void SetUp()
@@ -122,6 +122,11 @@ namespace PlanetWars.Tests
             Planet planet2 = new Planet("planet", 50);
             planet2.AddWeapon(weapon);
             Assert.Throws<InvalidOperationException>(() => planet.DestructOpponent(planet2));
+        }
+        [Test]
+        public void Test_IsNuclear()
+        {
+            Assert.AreEqual(true, weapon.IsNuclear);
         }
     }
 }
