@@ -6,54 +6,53 @@ namespace _04._Pizza_Calories
 {
     public class Pizza
     {
+        // Fields
         private string name;
+        private Dough dough;
         private List<Topping> toppings;
 
-        public Pizza(string name, Dought dought)
-        {
-            this.Name = name;
-            this.Dought = dought;
-            this.toppings = new List<Topping>();
-
-        }
-
+        // Properties
         public string Name
         {
             get { return name; }
             set
             {
-                if (String.IsNullOrEmpty(value) || value.Length > 15) throw new ArgumentException("Pizza name should be between 1 and 15 symbols.");
+                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length > 15)
+                    throw new ArgumentException("Pizza name should be between 1 and 15 symbols.");
                 this.name = value;
             }
         }
-        public Dought Dought { get; set; }
-        private int Count { get { return this.toppings.Count; } }
-        private double TotalCalories
+        public Dough Dough { get { return dough; } set { dough = value; } }
+        public int Count { get { return toppings.Count; } }
+        public double TotalCalories
         {
-            get 
+            get
             {
-                double totalCalories = 0;
-                totalCalories += this.Dought.CalculateCalories();
-                foreach (var item in this.toppings)
-                {
-                    totalCalories += item.CalculateCalories();
-                }
+                double totalCalories = this.dough.GetCalories();
+                foreach (Topping topping in toppings)
+                    totalCalories += topping.GetCalories();
                 return totalCalories;
             }
         }
+
+        // Constructors
+        public Pizza(string name, Dough dough)
+        {
+            this.Name = name;
+            this.Dough = dough;
+            this.toppings = new List<Topping>();
+        }
+
+
+        // Methods
         public void AddTopping(Topping topping)
         {
-            if (Count == 10)
-            {
+            if (this.Count == 10)
                 throw new ArgumentException("Number of toppings should be in range [0..10].");
-            }
-            this.toppings.Add(topping);
+            toppings.Add(topping);
         }
 
         public override string ToString()
-        {
-            return $"{this.Name} - {TotalCalories:f2} Calories.";
-        }
-
+        => $"{this.name} - {this.TotalCalories:f2} Calories.";
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+
 
 namespace _04._Pizza_Calories
 {
@@ -15,14 +16,6 @@ namespace _04._Pizza_Calories
         // Fields - variables
         private string type;
         private double grams;
-
-        public Topping(string type, double grams)
-        {
-            Type = type;
-            Grams = grams;
-        }
-
-
 
         // Properties   
         private double Grams
@@ -58,9 +51,15 @@ namespace _04._Pizza_Calories
             }
         }
 
-        public double CalculateCalories()
+        // Constructors
+        public Topping(string type, double grams)
         {
-            return this.grams * this.CaloriesPerGram;
+            this.Type = type;
+            this.Grams = grams;
         }
+
+        // Methods
+        public double GetCalories()
+        => this.CaloriesPerGram * this.grams;
     }
 }

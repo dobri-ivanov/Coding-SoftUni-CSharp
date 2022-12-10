@@ -24,9 +24,10 @@ namespace AnimalFarm.Models
                 return this.name;
             }
 
-            set
+            private set
             {
-                if(String.IsNullOrEmpty(value) || String.IsNullOrWhiteSpace(value)) throw new ArgumentException("Name cannot be empty.");
+                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException("Name cannot be empty.");
                 this.name = value;
             }
         }
@@ -38,19 +39,20 @@ namespace AnimalFarm.Models
                 return this.age;
             }
 
-            set
+            private set
             {
-                if (value < MinAge || value > MaxAge) throw new ArgumentException("Age should be between 0 and 15.");
+                if (value < MinAge || value > MaxAge)
+                    throw new ArgumentException("Age should be between 0 and 15.");
                 this.age = value;
             }
         }
 
         public double ProductPerDay
         {
-			get
-			{				
-				return this.CalculateProductPerDay();
-			}
+            get
+            {
+                return this.CalculateProductPerDay();
+            }
         }
 
         private double CalculateProductPerDay()
