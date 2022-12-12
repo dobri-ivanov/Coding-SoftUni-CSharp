@@ -75,7 +75,7 @@
 
 ### Results
 
-- Regular Exam - 
-- Theoretical Exam - 
-- Grade -
+- Regular Exam - 290/300
+- Theoretical Exam - 17/20
+- Grade - 6.00
 - [Certificate]
