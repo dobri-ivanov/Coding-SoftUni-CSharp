@@ -4,8 +4,8 @@ VALUES
  (2, 'Plovdiv'),
  (3, 'Varna');
 
- INSERT INTO Minions(Name, Age, TownId)
+ INSERT INTO Minions(Id, Name, Age, TownId)
  VALUES
-  ('Kevin', 22, 1),
-  ('Bob', 15, 3),
-  ('Steward', NULL, 2);
+  (1, 'Kevin', 22, 1),
+  (2, 'Bob', 15, 3),
+  (3, 'Steward', NULL, 2);

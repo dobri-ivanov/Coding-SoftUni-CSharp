@@ -3,7 +3,7 @@ CREATE TABLE People(
  Name NVARCHAR(200) NOT NULL,
  Picture IMAGE,
  Height DECIMAL(3,2),
- Weight DECIMAL(5,2),
+ Weight DECIMAL(4,2),
  Gender CHAR(1) NOT NULL,
  Birthdate DATE,
  Biography NVARCHAR(MAX),
