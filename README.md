@@ -79,3 +79,21 @@
 - Theoretical Exam - 17/20
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/150766?code=86bd1897)
+
+## [MS SQL](https://softuni.bg/trainings/3965/ms-sql-january-2023) -10.01.2023
+- 01 Databases Introduction
+- 02 CRUD
+- 03 Table Relations
+- 04 Built-in Functions
+- 05 Subqueries and Joins
+- 06 Indices and Data Aggregation
+- 07 Functions and Procedures
+- 08 Reflection and Attributes
+- 09 Triggers and Transactions
+
+### Results
+
+- Regular Exam - 
+- Theoretical Exam - 
+- Grade - 
+- [Certificate]()
