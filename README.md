@@ -88,8 +88,7 @@
 - 05 Subqueries and Joins
 - 06 Indices and Data Aggregation
 - 07 Functions and Stored Procedures
-- 08 Reflection and Attributes
-- 09 Triggers and Transactions
+- 08 Triggers and Transactions
 
 ### Results
 
