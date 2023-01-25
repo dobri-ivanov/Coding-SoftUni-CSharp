@@ -5,6 +5,7 @@ CREATE TABLE Students
     PRIMARY KEY(StudentID)
 )
 
+DROP DATABASE Geography
 CREATE TABLE Exams
 (
     ExamID INT IDENTITY(101, 1),
