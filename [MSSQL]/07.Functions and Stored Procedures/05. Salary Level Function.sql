@@ -8,3 +8,4 @@ BEGIN
     WHEN @salary > 50000 THEN 'High'
     END
 END
+
