@@ -80,7 +80,7 @@
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/150766?code=86bd1897)
 
-## [MS SQL](https://softuni.bg/trainings/3965/ms-sql-january-2023) -10.01.2023
+## [MS SQL](https://softuni.bg/trainings/3965/ms-sql-january-2023) - 10.01.2023
 - 01 Databases Introduction
 - 02 CRUD
 - 03 Table Relations
@@ -95,4 +95,4 @@
 - Regular Exam - 100/100
 - Theoretical Exam - 15/20
 - Grade - 6.00
-- [Certificate]()
+- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/124890?code=88cdd95e)
