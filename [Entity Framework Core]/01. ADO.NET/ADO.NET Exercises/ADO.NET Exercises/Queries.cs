@@ -15,5 +15,7 @@ namespace ADO.NET_Exercises
               GROUP BY v.Id, v.Name 
                 HAVING COUNT(mv.VillainId) > 3 
               ORDER BY COUNT(mv.VillainId)";
+        public const string Problem3 =
+            @"SELECT Name FROM Villains WHERE Id = @Id";
     }
 }

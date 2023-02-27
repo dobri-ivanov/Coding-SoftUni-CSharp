@@ -26,5 +26,25 @@
             }
             return sb.ToString().TrimEnd();
         }
+        static string Problem3(SqlConnection sqlConnection)
+        {
+            int id = int.Parse(Console.ReadLine());
+
+            StringBuilder sb = new StringBuilder();
+            SqlCommand sqlCommand = new SqlCommand(Queries.Problem3, sqlConnection);
+            sqlCommand.Parameters.AddWithValue("@Id", id);
+
+            SqlDataReader sqlDataReader = sqlCommand.ExecuteReader();
+            while (sqlDataReader.Read())
+            {
+                string name = (string)sqlDataReader["Name"];
+                int count = (int)sqlDataReader["MinionsCount"];
+
+                sb.AppendLine($"{name} - {count}");
+            }
+            return sb.ToString().TrimEnd();
+
+        }
+
     }
 }
