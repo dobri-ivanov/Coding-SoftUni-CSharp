@@ -1,6 +1,4 @@
-﻿using SoftUni.Data.Models;
-
-namespace SoftUni.Models;
+﻿namespace SoftUni.Models;
 
 public class EmployeeProject
 {
