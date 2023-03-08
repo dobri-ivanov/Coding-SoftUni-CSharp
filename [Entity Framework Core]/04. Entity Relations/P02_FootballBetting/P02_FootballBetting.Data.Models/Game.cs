@@ -8,7 +8,7 @@ public class Game
 {
     public Game()
     {
-        this.PlayerStatistics = new HashSet<PlayerStatistic>();
+        this.PlayersStatistics = new HashSet<PlayerStatistic>();
         this.Bets = new HashSet<Bet>();
     }
     [Key]
@@ -30,6 +30,6 @@ public class Game
     [MaxLength(7)]
     public string? Result { get; set; }
 
-    public virtual ICollection<PlayerStatistic> PlayerStatistics { get; set; }
+    public virtual ICollection<PlayerStatistic> PlayersStatistics { get; set; }
     public virtual ICollection<Bet> Bets { get; set; }
 }

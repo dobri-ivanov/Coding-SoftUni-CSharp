@@ -7,7 +7,7 @@ public class Player
 {
     public Player()
     {
-        this.PlayerStatistics = new HashSet<PlayerStatistic>();
+        this.PlayersStatistics = new HashSet<PlayerStatistic>();
     }
     [Key]
     public int PlayerId { get; set; }
@@ -19,7 +19,7 @@ public class Player
     public int SquadNumber { get; set; }
 
     [ForeignKey(nameof(Team))]
-    public int? TeamId { get; set; }
+    public int TeamId { get; set; }
     public virtual Team Team { get; set; } = null!;
 
     [ForeignKey(nameof(Position))]
@@ -27,7 +27,7 @@ public class Player
     public virtual Position Position { get; set; } = null!;
 
     public bool IsInjured { get; set; }
-    public virtual ICollection<PlayerStatistic> PlayerStatistics { get; set; }
+    public virtual ICollection<PlayerStatistic> PlayersStatistics { get; set; }
 
 
 
