@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace P02_FootballBetting.Data.Models
+namespace P02_FootballBetting.Data.Models;
+
+public class Color
 {
-    public class Color
-    {
-        [Key]
-        public int ColorId { get; set; }
+    [Key]
+    public int ColorId { get; set; }
 
-        [Required]
-        [MaxLength(50)]
-        public string Name { get; set; }
-    }
+    [Required]
+    [MaxLength(10)]
+    public string Name { get; set; }
+
+    // TODO: Add navigation collections
 }
