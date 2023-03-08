@@ -13,7 +13,7 @@ public class Position
 
     [Required]
     [MaxLength(50)]
-    public string Name { get; set; }
+    public string Name { get; set; } = null!;
 
-    public virtual ICollection<Player> Players { get; set; }
+    public virtual ICollection<Player> Players { get; set; } = null!;
 }

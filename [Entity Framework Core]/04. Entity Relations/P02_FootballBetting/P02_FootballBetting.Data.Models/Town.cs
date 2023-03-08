@@ -14,11 +14,11 @@ public class Town
 
     [Required]
     [MaxLength(60)]
-    public string Name { get; set; }
+    public string Name { get; set; } = null!;
 
     [ForeignKey(nameof(Country))]
     public int CountryId { get; set; }
-    public Country Country { get; set; }
+    public Country Country { get; set; } = null!;
 
     public virtual ICollection<Team> Teams { get; set; }
 }

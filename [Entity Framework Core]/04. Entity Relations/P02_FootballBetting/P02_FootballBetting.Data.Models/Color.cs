@@ -15,10 +15,10 @@ public class Color
 
     [Required]
     [MaxLength(10)]
-    public string Name { get; set; }
+    public string Name { get; set; } = null!;
 
     [InverseProperty("PrimaryKitColor")]
-    public virtual ICollection<Team> PrimaryKitTeams { get; set; }
+    public virtual ICollection<Team> PrimaryKitTeams { get; set; } = null!;
     [InverseProperty("SecondaryKitColor")]
-    public virtual ICollection<Team> SecondaryKitTeams { get; set; }
+    public virtual ICollection<Team> SecondaryKitTeams { get; set; } = null!;
 }

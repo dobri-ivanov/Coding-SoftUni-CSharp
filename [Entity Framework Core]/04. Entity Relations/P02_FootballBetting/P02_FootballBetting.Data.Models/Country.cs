@@ -13,7 +13,7 @@ public class Country
 
     [Required]
     [MaxLength(60)]
-    public string Name { get; set; }
+    public string Name { get; set; } = null!;
 
-    public virtual ICollection<Town> Towns { get; set; }
+    public virtual ICollection<Town> Towns { get; set; } = null!;
 }
