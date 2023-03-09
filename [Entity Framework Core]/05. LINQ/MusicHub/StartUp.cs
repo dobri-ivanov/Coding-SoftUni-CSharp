@@ -13,14 +13,20 @@ public class StartUp
         MusicHubDbContext context =
             new MusicHubDbContext();
 
+        //Database initializing
         DbInitializer.ResetDatabase(context);
 
         //Test your solutions here
+
+        //Problem 2
         Console.WriteLine(ExportAlbumsInfo(context, 9));
+        //Problem 3
+        Console.WriteLine(ExportSongsAboveDuration(context, 4));
     }
 
     public static string ExportAlbumsInfo(MusicHubDbContext context, int producerId)
     {
+
         var albums = context.Albums
             .Where(a => a.ProducerId == producerId)
             .Select(a => new
@@ -70,6 +76,45 @@ public class StartUp
 
     public static string ExportSongsAboveDuration(MusicHubDbContext context, int duration)
     {
-        throw new NotImplementedException();
+
+        var songs = context.Songs
+            .AsEnumerable()
+            .Where(s => s.Duration.TotalSeconds > duration)
+            .Select(s => new
+            {
+                Name = s.Name,
+                Performers = s.SongPerformers
+                .Select(sp => sp.Performer.FirstName + " " + sp.Performer.LastName)
+                .OrderBy(name => name)
+                .ToList(),
+                WriterName = s.Writer.Name,
+                AlbumProducer = s.Album.Producer.Name,
+                Duration = s.Duration
+            })
+            .OrderBy(s => s.Name)
+            .ThenBy(s => s.WriterName)
+            .ToList();
+
+
+        StringBuilder sb = new StringBuilder();
+
+        int songNumber = 1;
+        foreach (var s in songs)
+        {
+            sb.AppendLine($"-Song #{songNumber++}");
+            sb.AppendLine($"---SongName: {s.Name}");
+            sb.AppendLine($"---Writer: {s.WriterName}");
+
+            if (s.Performers.Any())
+            {
+                sb.AppendLine(String.Join(Environment.NewLine, s.Performers.Select(p => $"---Performer: {p}")));
+            }
+
+            sb.AppendLine($"---AlbumProducer: {s.AlbumProducer}");
+            sb.AppendLine($"---Duration: {s.Duration.ToString("c")}");
+        }
+
+        return sb.ToString().TrimEnd();
+
     }
 }
