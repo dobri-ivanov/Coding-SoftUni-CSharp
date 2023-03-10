@@ -1,6 +1,6 @@
 ﻿namespace P01_StudentSystem.Data.Models.Enums;
 
-public enum RecourceTypes
+public enum RecourceType
 {
     Video,
     Presentation,
