@@ -96,3 +96,23 @@
 - Theoretical Exam - 15/20
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/124890?code=88cdd95e)
+
+## [Entity Framework Core](https://softuni.bg/trainings/3966/entity-framework-core-february-2023) - 14.02.2023
+- 01 ADO.NET
+- 02 ORM Fundamentals
+- 03 Entity Framework Introduction
+- 04 Entity Relations
+- 05 LINQ
+- 06 Advanced Querying
+- 07 C# Auto Mapping Objects
+- 08 JSON Processing
+- 09 XML Processing
+- 10 Best Practices And Architecture
+- 11 NoSQL
+
+### Results
+
+- Regular Exam -
+- Theoretical Exam -
+- Grade -
+- [Certificate]()
