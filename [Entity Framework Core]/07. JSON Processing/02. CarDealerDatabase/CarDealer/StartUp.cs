@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using CarDealer.Data;
+using CarDealer.DTOs;
 using CarDealer.DTOs.Import;
 using CarDealer.Models;
 using Microsoft.EntityFrameworkCore;
@@ -12,8 +13,8 @@ namespace CarDealer
         public static void Main()
         {
             CarDealerContext context = new CarDealerContext();
-            string json = File.ReadAllText(@"../../../Datasets/parts.json");
-            Console.WriteLine(ImportParts(context, json));
+            string json = File.ReadAllText(@"../../../Datasets/sales.json");
+            Console.WriteLine(ImportSales(context, json));
 
         }
         public static string ImportSuppliers(CarDealerContext context, string inputJson)
@@ -56,7 +57,73 @@ namespace CarDealer
 
         public static string ImportCars(CarDealerContext context, string inputJson)
         {
+            var carsAndPartsDTO = JsonConvert.DeserializeObject<List<ImportCarsDTO>>(inputJson);
+
+            List<PartCar> parts = new List<PartCar>();
+            List<Car> cars = new List<Car>();
+
+            foreach (var dto in carsAndPartsDTO)
+            {
+                Car car = new Car()
+                {
+                    Make = dto.Make,
+                    Model = dto.Model,
+                    TravelledDistance = dto.TravelledDistance
+                };
+                cars.Add(car);
+
+                foreach (var part in dto.PartsId.Distinct())
+                {
+                    PartCar partCar = new PartCar()
+                    {
+                        Car = car,
+                        PartId = part,
+                    };
+                    parts.Add(partCar);
+                }
+            }
+
+            context.Cars.AddRange(cars);
+            context.PartsCars.AddRange(parts);
+            context.SaveChanges();
+            return $"Successfully imported {cars.Count}.";
+        }
+
+        public static string ImportCustomers(CarDealerContext context, string inputJson)
+        {
             IMapper mapper = CreateMapper();
+
+            ImportCustomersDTO[] importCustomersDTOs = JsonConvert.DeserializeObject<ImportCustomersDTO[]>(inputJson);
+            ICollection<Customer> customers = new HashSet<Customer>();
+
+            foreach (var item in importCustomersDTOs)
+            {
+                Customer customer = mapper.Map<Customer>(item);
+                customers.Add(customer);
+            }
+
+            context.Customers.AddRange(customers);
+            context.SaveChanges();
+
+            return String.Format($"Successfully imported {customers.Count}.");
+        }
+
+        public static string ImportSales(CarDealerContext context, string inputJson)
+        {
+            IMapper mapper = CreateMapper();
+
+            ImportSalesDTO[] importSalesDTOs = JsonConvert.DeserializeObject<ImportSalesDTO[]>(inputJson);
+            ICollection<Sale> sales = new HashSet<Sale>();
+
+            foreach (var item in importSalesDTOs)
+            {
+                Sale sale = mapper.Map<Sale>(item);
+                sales.Add(sale);
+            }
+            context.Sales.AddRange(sales);
+            context.SaveChanges();
+
+            return String.Format($"Successfully imported {sales.Count}.");
         }
         private static IMapper CreateMapper()
         {
