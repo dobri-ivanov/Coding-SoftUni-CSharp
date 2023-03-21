@@ -14,7 +14,7 @@ namespace CarDealer
         {
             CarDealerContext context = new CarDealerContext();
             string json = File.ReadAllText(@"../../../Datasets/sales.json");
-            Console.WriteLine(ImportSales(context, json));
+            Console.WriteLine(GetOrderedCustomers(context));
 
         }
         public static string ImportSuppliers(CarDealerContext context, string inputJson)
@@ -124,6 +124,23 @@ namespace CarDealer
             context.SaveChanges();
 
             return String.Format($"Successfully imported {sales.Count}.");
+        }
+
+        public static string GetOrderedCustomers(CarDealerContext context)
+        {
+            var customers = context.Customers
+                .OrderBy(c => c.BirthDate)
+                .ThenBy(c => c.IsYoungDriver)
+                .Select(c => new
+                {
+                    Name = c.Name,
+                    BirthDate = c.BirthDate.ToString("dd/MM/yyyy"),
+                    IsYoungDriver = c.IsYoungDriver,
+                })
+                .AsNoTracking()
+                .ToArray();
+
+            return JsonConvert.SerializeObject(customers, Formatting.Indented);
         }
         private static IMapper CreateMapper()
         {
