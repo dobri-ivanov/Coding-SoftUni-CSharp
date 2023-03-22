@@ -5,6 +5,7 @@ using CarDealer.DTOs.Import;
 using CarDealer.Models;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using System.Globalization;
 
 namespace CarDealer
 {
@@ -13,8 +14,11 @@ namespace CarDealer
         public static void Main()
         {
             CarDealerContext context = new CarDealerContext();
-            string json = File.ReadAllText(@"../../../Datasets/sales.json");
-            Console.WriteLine(GetOrderedCustomers(context));
+            //string json = File.ReadAllText(@"../../../Datasets/sales.json");
+
+            string json = GetCarsFromMakeToyota(context);
+            Console.WriteLine(json);
+            File.WriteAllText(@"../../../Results/toyota-cars.json", json);
 
         }
         public static string ImportSuppliers(CarDealerContext context, string inputJson)
@@ -38,7 +42,7 @@ namespace CarDealer
         public static string ImportParts(CarDealerContext context, string inputJson)
         {
             IMapper mapper = CreateMapper();
-            ImportPartsDTO[] importParts= JsonConvert.DeserializeObject<ImportPartsDTO[]>(inputJson);
+            ImportPartsDTO[] importParts = JsonConvert.DeserializeObject<ImportPartsDTO[]>(inputJson);
             ICollection<Part> parts = new HashSet<Part>();
 
             foreach (var item in importParts)
@@ -134,13 +138,32 @@ namespace CarDealer
                 .Select(c => new
                 {
                     Name = c.Name,
-                    BirthDate = c.BirthDate.ToString("dd/MM/yyyy"),
+                    BirthDate = c.BirthDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture),
                     IsYoungDriver = c.IsYoungDriver,
                 })
                 .AsNoTracking()
                 .ToArray();
 
             return JsonConvert.SerializeObject(customers, Formatting.Indented);
+        }
+
+        public static string GetCarsFromMakeToyota(CarDealerContext context)
+        {
+            var cars = context.Cars
+                .Where(c => c.Make == "Toyota")
+                .OrderBy(c => c.Model)
+                .ThenByDescending(c => c.TravelledDistance)
+                .Select(c => new
+                {
+                    Id = c.Id,
+                    Make = c.Make,
+                    Model = c.Model,
+                    TraveledDistance = c.TravelledDistance
+                })
+                .AsNoTracking()
+                .ToArray();
+
+            return JsonConvert.SerializeObject(cars, Formatting.Indented);
         }
         private static IMapper CreateMapper()
         {
