@@ -1,218 +1,152 @@
 [
   {
-    "Id": 134,
-    "Make": "Toyota",
-    "Model": "Camry Hybrid",
-    "TraveledDistance": 486872832
+    "fullname": "Faustina Burgher",
+    "boughtCars": 4,
+    "spentMoney": 12585.89
   },
   {
-    "Id": 139,
-    "Make": "Toyota",
-    "Model": "Camry Hybrid",
-    "TraveledDistance": 397831570
+    "fullname": "Garret Capron",
+    "boughtCars": 3,
+    "spentMoney": 11743.59
   },
   {
-    "Id": 117,
-    "Make": "Toyota",
-    "Model": "Camry Hybrid",
-    "TraveledDistance": 217630531
+    "fullname": "Carri Knapik",
+    "boughtCars": 4,
+    "spentMoney": 11550.63
   },
   {
-    "Id": 136,
-    "Make": "Toyota",
-    "Model": "Camry Hybrid",
-    "TraveledDistance": 193362513
+    "fullname": "Zada Attwood",
+    "boughtCars": 4,
+    "spentMoney": 11223.87
   },
   {
-    "Id": 112,
-    "Make": "Toyota",
-    "Model": "Camry Hybrid",
-    "TraveledDistance": 151868293
+    "fullname": "Jimmy Grossi",
+    "boughtCars": 3,
+    "spentMoney": 10382.12
   },
   {
-    "Id": 120,
-    "Make": "Toyota",
-    "Model": "Corolla",
-    "TraveledDistance": 485584239
+    "fullname": "Teddy Hobby",
+    "boughtCars": 5,
+    "spentMoney": 9797.86
   },
   {
-    "Id": 109,
-    "Make": "Toyota",
-    "Model": "Corolla",
-    "TraveledDistance": 356361379
+    "fullname": "Cinthia Lasala",
+    "boughtCars": 5,
+    "spentMoney": 9317.68
   },
   {
-    "Id": 124,
-    "Make": "Toyota",
-    "Model": "Corolla",
-    "TraveledDistance": 333412512
+    "fullname": "Oren Perlman",
+    "boughtCars": 4,
+    "spentMoney": 9134.27
   },
   {
-    "Id": 113,
-    "Make": "Toyota",
-    "Model": "Corolla",
-    "TraveledDistance": 230556000
+    "fullname": "Audrea Cardinal",
+    "boughtCars": 3,
+    "spentMoney": 8714.26
   },
   {
-    "Id": 122,
-    "Make": "Toyota",
-    "Model": "Corolla",
-    "TraveledDistance": 196587490
+    "fullname": "Emmitt Benally",
+    "boughtCars": 5,
+    "spentMoney": 7510.36
   },
   {
-    "Id": 115,
-    "Make": "Toyota",
-    "Model": "Corolla",
-    "TraveledDistance": 172436753
+    "fullname": "Marcelle Griego",
+    "boughtCars": 3,
+    "spentMoney": 6561.96
   },
   {
-    "Id": 104,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 508864707
+    "fullname": "Hai Everton",
+    "boughtCars": 2,
+    "spentMoney": 6017.61
   },
   {
-    "Id": 130,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 424624116
+    "fullname": "Johnette Derryberry",
+    "boughtCars": 3,
+    "spentMoney": 5486.86
   },
   {
-    "Id": 132,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 332788407
+    "fullname": "Nisha Markwell",
+    "boughtCars": 1,
+    "spentMoney": 5347.84
   },
   {
-    "Id": 118,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 280666484
+    "fullname": "Louann Holzworth",
+    "boughtCars": 3,
+    "spentMoney": 5201.03
   },
   {
-    "Id": 125,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 208912076
+    "fullname": "Natalie Poli",
+    "boughtCars": 3,
+    "spentMoney": 5013.00
   },
   {
-    "Id": 137,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 191675886
+    "fullname": "Hipolito Lamoreaux",
+    "boughtCars": 6,
+    "spentMoney": 4539.08
   },
   {
-    "Id": 108,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 142914233
+    "fullname": "Lino Subia",
+    "boughtCars": 2,
+    "spentMoney": 4248.91
   },
   {
-    "Id": 111,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 141313729
+    "fullname": "Carole Witman",
+    "boughtCars": 2,
+    "spentMoney": 3977.58
   },
   {
-    "Id": 135,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 126607020
+    "fullname": "Kristian Engberg",
+    "boughtCars": 3,
+    "spentMoney": 3814.22
   },
   {
-    "Id": 121,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 78228066
+    "fullname": "Brett Brickley",
+    "boughtCars": 2,
+    "spentMoney": 3366.01
   },
   {
-    "Id": 114,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 65891391
+    "fullname": "Donnetta Soliz",
+    "boughtCars": 3,
+    "spentMoney": 3029.78
   },
   {
-    "Id": 106,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 64266329
+    "fullname": "Daniele Zarate",
+    "boughtCars": 3,
+    "spentMoney": 2946.18
   },
   {
-    "Id": 128,
-    "Make": "Toyota",
-    "Model": "Prius",
-    "TraveledDistance": 8676482
+    "fullname": "Rico Peer",
+    "boughtCars": 2,
+    "spentMoney": 2899.97
   },
   {
-    "Id": 105,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 431663130
+    "fullname": "Rema Revelle",
+    "boughtCars": 1,
+    "spentMoney": 2341.64
   },
   {
-    "Id": 107,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 426059006
+    "fullname": "Taina Achenbach",
+    "boughtCars": 2,
+    "spentMoney": 1608.82
   },
   {
-    "Id": 129,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 425742267
+    "fullname": "Yvonne Mccalla",
+    "boughtCars": 1,
+    "spentMoney": 1003.78
   },
   {
-    "Id": 116,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 328571532
+    "fullname": "Francis Mckim",
+    "boughtCars": 2,
+    "spentMoney": 621.14
   },
   {
-    "Id": 126,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 174113404
+    "fullname": "Sylvie Mcelravy",
+    "boughtCars": 2,
+    "spentMoney": 581.39
   },
   {
-    "Id": 138,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 157810668
-  },
-  {
-    "Id": 119,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 147379564
-  },
-  {
-    "Id": 133,
-    "Make": "Toyota",
-    "Model": "Tacoma",
-    "TraveledDistance": 89596390
-  },
-  {
-    "Id": 123,
-    "Make": "Toyota",
-    "Model": "Yaris",
-    "TraveledDistance": 439493520
-  },
-  {
-    "Id": 110,
-    "Make": "Toyota",
-    "Model": "Yaris",
-    "TraveledDistance": 285031257
-  },
-  {
-    "Id": 127,
-    "Make": "Toyota",
-    "Model": "Yaris",
-    "TraveledDistance": 18776234
-  },
-  {
-    "Id": 131,
-    "Make": "Toyota",
-    "Model": "Yaris",
-    "TraveledDistance": 17169781
+    "fullname": "Ann Mcenaney",
+    "boughtCars": 2,
+    "spentMoney": 521.85
   }
 ]

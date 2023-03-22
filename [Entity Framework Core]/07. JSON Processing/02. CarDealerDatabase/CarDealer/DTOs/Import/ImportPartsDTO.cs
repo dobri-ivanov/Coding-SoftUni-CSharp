@@ -5,7 +5,7 @@ namespace CarDealer.DTOs.Import;
 public class ImportPartsDTO
 {
     [JsonProperty("name")]
-    public string Name { get; set; }
+    public string Name { get; set; } = null!;
     [JsonProperty("price")]
     public decimal Price { get; set; }
     [JsonProperty("quantity")]
