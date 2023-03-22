@@ -17,7 +17,7 @@ namespace CarDealer
             CarDealerContext context = new CarDealerContext();
             //string json = File.ReadAllText(@"../../../Datasets/sales.json");
 
-            string json = GetTotalSalesByCustomer(context);
+            string json = GetSalesWithAppliedDiscount(context);
             Console.WriteLine(json);
             File.WriteAllText(@"../../../Results/toyota-cars.json", json);
 
@@ -231,6 +231,29 @@ namespace CarDealer
             return JsonConvert.SerializeObject(json, Formatting.Indented);
         }
 
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var sales = context.Sales
+                .Take(10)
+                .Select(s => new
+                {
+                    car = new
+                    {
+                        Make = s.Car.Make,
+                        Model = s.Car.Model,
+                        TraveledDistance = s.Car.TraveledDistance
+                    },
+                    customerName = s.Customer.Name,
+                    discount = $"{s.Discount:f2}",
+                    price = $"{s.Car.PartsCars.Sum(p => p.Part.Price):f2}",
+                    priceWithDiscount = $"{s.Car.PartsCars.Sum(p => p.Part.Price) * (1 - s.Discount / 100):f2}"
+                })
+                .AsNoTracking()
+                .ToArray();
+
+            return JsonConvert.SerializeObject(sales, Formatting.Indented);
+
+        }
         private static IMapper CreateMapper()
         {
             return new Mapper(new MapperConfiguration(cfg =>
