@@ -21,7 +21,7 @@ namespace Trucks.Data.Models
 
         [MaxLength(8)]
         [Range(8, 8)]
-        public string? RegistrationNumber  { get; set; }
+        public string RegistrationNumber  { get; set; }
 
         [Required]
         [MaxLength(17)]
