@@ -112,7 +112,7 @@
 
 ### Results
 
-- Regular Exam -
-- Theoretical Exam -
-- Grade -
+- Regular Exam - 100/100
+- Theoretical Exam - 16/20
+- Grade - 6.00
 - [Certificate]()
