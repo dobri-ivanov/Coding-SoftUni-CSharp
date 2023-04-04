@@ -115,4 +115,4 @@
 - Regular Exam - 100/100
 - Theoretical Exam - 16/20
 - Grade - 6.00
-- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e) - 03.04.2023
+- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e)
