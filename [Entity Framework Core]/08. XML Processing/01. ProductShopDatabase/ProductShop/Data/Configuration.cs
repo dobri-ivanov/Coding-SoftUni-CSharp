@@ -2,6 +2,6 @@
 {
     public static class Configuration
     {
-        public const string ConnectionString = @"Server=(localdb)\LocalHost;Database=ProductShop;Integrated Security=True;Encrypt=False";
+        public const string ConnectionString = @"Server=DESKTOP-TQCFNM7\LOCALSERVER;Database=ProductShop;Integrated Security=True;Encrypt=False";
     }
 }

@@ -11,9 +11,9 @@ namespace ProductShop
         public static void Main()
         {
             ProductShopContext context = new ProductShopContext();
-            string xml = File.ReadAllText($"../../../Datasets/users.xml");
+            string xml = File.ReadAllText($"../../../Datasets/products.xml");
 
-            Console.WriteLine(ImportUsers(context, xml));
+            Console.WriteLine(ImportProducts(context, xml));
         }
 
 
@@ -39,6 +39,25 @@ namespace ProductShop
 
         }
 
+        public static string ImportProducts(ProductShopContext context, string inputXml)
+        {
+            IMapper mapper = CreateMapper();
+            XmlHelper xmlHelper = new XmlHelper();
+
+            ImportProductsDto[] productsDtos = xmlHelper.Deserialize<ImportProductsDto[]>(inputXml, "Products");
+            ICollection<Product> products = new HashSet<Product>();
+
+            foreach (var item in productsDtos)
+            {
+                Product product = mapper.Map<Product>(item);
+                products.Add(product);
+            }
+            context.Products.AddRange(products);
+            context.SaveChanges();
+
+            return String.Format($"Successfully imported {products.Count}");
+
+        }
         private static IMapper CreateMapper()
         {
             return new Mapper(new MapperConfiguration(cfg =>
