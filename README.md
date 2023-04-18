@@ -4,9 +4,9 @@
   </a>
 </div>
 
-## Project including my all solutions during my education at SoftUni.
+# Project including my all solutions during my education at SoftUni.
 
-# Courses
+## Courses
 ## [Programming Basics with C#](https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022) - 08.01.2022
 - 01 First Steps In Coding
 - 02 Conditional Statements
@@ -18,7 +18,6 @@
 ### Results
 
 - Regular Exam - 300/300 points
-- Theoretical Exam - 15/15 points
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/124890?code=88cdd95e)
 
@@ -37,7 +36,6 @@
 
 - Mid Exam - 300/300 points
 - Final Exam - 300/300 points
-- Theoretical Exam - 17/20 points
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/139379?code=b1bc1be8)
 
@@ -56,7 +54,6 @@
 ### Results
 
 - Regular Exam - 300/300 points
-- Theoretical Exam - 16/20 points
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/144009?code=585e638c)
 
@@ -76,7 +73,6 @@
 ### Results
 
 - Regular Exam - 290/300
-- Theoretical Exam - 17/20
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/150766?code=86bd1897)
 
@@ -93,7 +89,6 @@
 ### Results
 
 - Regular Exam - 100/100
-- Theoretical Exam - 15/20
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/124890?code=88cdd95e)
 
@@ -113,6 +108,5 @@
 ### Results
 
 - Regular Exam - 100/100
-- Theoretical Exam - 16/20
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e)
