@@ -110,3 +110,18 @@
 - Regular Exam - 100/100
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e)
+
+
+## [ASP.NET Fundamentals](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023) - 11.05.2023
+- 01 
+- 02
+- 03
+- 04
+- 05
+- 06
+- 07
+### Results
+
+- Regular Exam - 100/100
+- Grade - 6.00
+- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e)
