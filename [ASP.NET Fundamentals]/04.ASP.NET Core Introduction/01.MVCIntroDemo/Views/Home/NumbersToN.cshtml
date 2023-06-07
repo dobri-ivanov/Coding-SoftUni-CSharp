@@ -1,0 +1,19 @@
+﻿@{
+	ViewBag.Title = "NumbersToN";
+	int count = ViewBag.Count;
+}
+
+<h1>@ViewBag.Title</h1>
+<ul>
+	@for (int i = 1; i <= count; i++)
+	{
+		<li>@i</li>
+	}
+</ul>
+
+<form class="form-group" method="post">
+	<div class="form-group mb-2">
+		<input asp-for="@count" type="text" class="form-control">
+	</div>
+	<button type="submit" class="btn btn-primary mb-2">Submit</button>
+</form>
