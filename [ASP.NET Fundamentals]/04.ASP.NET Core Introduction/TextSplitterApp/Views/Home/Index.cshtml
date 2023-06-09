@@ -1,19 +1,60 @@
-﻿@model TextViewModel;
+﻿@{
+	ViewData["Title"] = "Create Auto Part";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
 
+<body style="background-repeat: no-repeat; background-size: cover; background-attachment:fixed; background-image: url('https://wallpapercave.com/wp/wp9274667.jpg');">
+	<h2>Create Auto Part</h2>
 
-<form asp-controller="Home" asp-action="Split" method="post">
-    <div class="col-12">
-        <input asp-for="@Model.Text" class="mr-2" />
-        <button type="submit" class="btn btn-primary">
-            Split Text
-        </button>
-    </div>
-    <span asp-validation-for="@Model.Text" class="small text-danger col-2"></span>
-    <div class="col-2 mt-3">
-        <textarea rows="10">@Model.SplittedText</textarea>
-    </div>
-</form>
+	<form asp-action="Create" class="needs-validation" novalidate>
+		<div class="form-group">
+			<label>Name:</label>
+			<input class="form-control" required />
+			<div class="invalid-feedback">Please enter the name of the auto part.</div>
+		</div>
+
+		<div class="form-group">
+			<label>Description:</label>
+			<textarea class="form-control" rows="4"></textarea>
+		</div>
+
+		<div class="form-group">
+			<label>Price:</label>
+			<input class="form-control" type="number" step="0.01" required />
+			<div class="invalid-feedback">Please enter a valid price.</div>
+		</div>
+
+		<div class="form-group">
+			<label>Image Link:</label>
+			<input class="form-control" />
+		</div>
+
+		<div style="margin-top: 5px">
+			<button type="submit" class="btn btn-gray-900">Create</button>
+			<a asp-action="Index" class="btn btn-success">Back to List</a>
+		</div>
+	</form>
+</body>
 
 @section Scripts {
-    <partial name="_ValidationScriptsPartial" />
+	<script>
+		// Add client-side validation
+		(function () {
+			'use strict';
+			window.addEventListener('load', function () {
+				// Fetch all the forms we want to apply custom Bootstrap validation styles to
+				var forms = document.getElementsByClassName('needs-validation');
+				// Loop over them and prevent submission
+				var validation = Array.prototype.filter.call(forms, function (form) {
+					form.addEventListener('submit', function (event) {
+						if (!form.checkValidity()) {
+							event.preventDefault();
+							event.stopPropagation();
+						}
+						form.classList.add('was-validated');
+					}, false);
+				});
+			}, false);
+		})();
+	</script>
 }
