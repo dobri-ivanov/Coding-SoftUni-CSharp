@@ -23,7 +23,7 @@
 
         [ForeignKey(nameof(Board))]
         public int BoardId { get; set; }
-        public virtual Board? Board { get; set; }
+        public virtual Board Board { get; set; } = null!;
 
         [Required]
         [ForeignKey(nameof(Owner))]

@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TaskBoardApp.Models
 {
@@ -11,9 +12,9 @@ namespace TaskBoardApp.Models
 		[Required]
 		[StringLength(TaskMaxDescription, MinimumLength = TaskMinDescription)]
 		public string Description { get; set; } = null!;
+
 		[Display(Name = "Board")]
         public int BoardId { get; set; }
-
 		public ICollection<TaskBoardModel>? Boards { get; set; }
     }
 }
