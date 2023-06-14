@@ -16,7 +16,13 @@ namespace TaskBoardApp
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+			builder.Services.ConfigureApplicationCookie(options =>
+			{
+				options.LoginPath = "/Identity/Account/Login";
+			});
+
+
+			builder.Services.AddDefaultIdentity<IdentityUser>(options =>
             {
                 options.SignIn.RequireConfirmedAccount = false;
 
@@ -28,7 +34,7 @@ namespace TaskBoardApp
             })
                 .AddEntityFrameworkStores<TaskBoardDbContext>();
 
-
+           
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
