@@ -1,10 +1,12 @@
-﻿using Library.Models;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
-namespace Library.Controllers
+﻿namespace Library.Controllers
 {
+    using System.Diagnostics;
+
+    using Microsoft.AspNetCore.Authorization;
+    using Microsoft.AspNetCore.Mvc;
+    
+    using Library.Models;
+
     [AllowAnonymous]
     public class HomeController : Controller
     {

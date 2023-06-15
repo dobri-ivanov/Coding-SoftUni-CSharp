@@ -1,5 +1,4 @@
-﻿
-namespace Library.Data.Models
+﻿namespace Library.Data.Models
 {
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;

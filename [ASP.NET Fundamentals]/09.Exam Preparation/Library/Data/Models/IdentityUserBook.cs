@@ -1,9 +1,10 @@
 ﻿namespace Library.Data.Models
 {
-    using Microsoft.AspNetCore.Identity;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
 
+    using Microsoft.AspNetCore.Identity;
+    
     public class IdentityUserBook
     {
         [Required]
