@@ -113,15 +113,15 @@
 
 
 ## [ASP.NET Fundamentals](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023) - 11.05.2023
-- 01 
-- 02
-- 03
-- 04
-- 05
-- 06
-- 07
+- 01 Internet Explained
+- 02 HTTP Protocol
+- 03 State Management & Asynchronous Processing
+- 04 ASP.NET and Databases
+- 05 ASP.NET Identity
+- 06 Workshops
+
 ### Results
 
-- Regular Exam - 100/100
-- Grade - 6.00
-- [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e)
+- Regular Exam - 
+- Grade - 
+- [Certificate]()
