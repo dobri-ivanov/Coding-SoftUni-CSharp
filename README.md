@@ -126,7 +126,7 @@
 - Grade - 
 - [Certificate]()
 
-- ## [ASP.NET Core Fundamentals](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023) - 21.06.2023
+## [ASP.NET Core Fundamentals](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023) - 21.06.2023
 - 01 Routing and Binding, Views, DI and Services
 - 02 Application Flow, Filters & Middleware
 - 03 Web API
