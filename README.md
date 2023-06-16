@@ -112,7 +112,7 @@
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/164912?code=dc39034e)
 
 
-## [ASP.NET Core Advanced](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023) - 11.05.2023
+## [ASP.NET Core Fundamentals](https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023) - 11.05.2023
 - 01 Internet Explained
 - 02 HTTP Protocol
 - 03 State Management & Asynchronous Processing
@@ -126,7 +126,7 @@
 - Grade - 
 - [Certificate]()
 
-## [ASP.NET Core Fundamentals](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023) - 21.06.2023
+## [ASP.NET Core Advanced](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023) - 21.06.2023
 - 01 Routing and Binding, Views, DI and Services
 - 02 Application Flow, Filters & Middleware
 - 03 Web API
