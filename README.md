@@ -122,9 +122,9 @@
 
 ### Results
 
-- Regular Exam - 
-- Grade - 
-- [Certificate]()
+- Regular Exam - 100/100
+- Grade - 6.00
+- [Certificate](https://cdn.discordapp.com/attachments/837093180783722536/1123302313440837817/175346.jpg)
 
 ## [ASP.NET Core Advanced](https://softuni.bg/trainings/4107/asp-net-advanced-june-2023) - 21.06.2023
 - 01 Routing and Binding, Views, DI and Services
