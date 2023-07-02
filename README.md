@@ -17,6 +17,7 @@
 
 ### Results
 
+
 - Regular Exam - 300/300 points
 - Grade - 6.00
 - [Certificate](https://softuni.bg/certificates/certificates/converttoimage/124890?code=88cdd95e)
